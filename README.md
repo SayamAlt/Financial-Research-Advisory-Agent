@@ -94,8 +94,8 @@ Audit log recorded for GOOGL | Decision: Automated Financial Advisory
 
 ### 👨‍💻 Author
 
-Sayam Kumar
-📧 sayamk565@gmail.com | 📞 +1 (437) 876-4544
+Sayam Kumar<br>
+📧 sayamk565@gmail.com | 📞 +1 (437) 876-4544<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/sayam-kumar/) | [GitHub](https://github.com/SayamAlt?tab=repositories)
 
 ### 🪪 License
