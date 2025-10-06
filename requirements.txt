@@ -6,3 +6,7 @@ pandas
 numpy
 fpdf
 yfinance
+python-dotenv
+pymongo
+scikit-learn
+langchain-openai

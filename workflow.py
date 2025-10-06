@@ -5,7 +5,6 @@ from pydantic import BaseModel
 from typing import List, TypedDict, Literal
 import yfinance as yf
 import numpy as np
-import pandas as pd
 import warnings, requests, os, json, datetime
 warnings.filterwarnings("ignore")
 from sklearn.model_selection import train_test_split
