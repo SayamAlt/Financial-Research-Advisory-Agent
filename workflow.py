@@ -333,7 +333,7 @@ def generate_signal(state: dict) -> dict:
     signal_col.insert_one(record)
     return to_serializable({
         "symbol": symbol,
-        "strategy": f"{signal} signal generated (confidence: {round(prob * 100, 2)}%)",
+        "strategy": f"{signal} signal generated (confidence: {round(confidence, 2)}%)",
         "signal": signal,
         "confidence": round(confidence, 2),
         "accuracy": round(acc * 100, 2)
