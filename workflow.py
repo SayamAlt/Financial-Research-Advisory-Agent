@@ -30,7 +30,23 @@ else:
     SEC_EDGAR_API_KEY = os.environ.get("SEC_EDGAR_API_KEY")
     MONGO_URI = os.environ.get("MONGO_URI")
 
-llm = ChatOpenAI(model="gpt-4", temperature=0.5)
+if OPENAI_API_KEY is None:
+    st.error("Please set the OPENAI_API_KEY environment variable.")
+    st.stop()
+
+if NEWS_API_KEY is None:
+    st.error("Please set the NEWS_API_KEY environment variable.")
+    st.stop()
+
+if SEC_EDGAR_API_KEY is None:
+    st.error("Please set the SEC_EDGAR_API_KEY environment variable.")
+    st.stop()
+
+if MONGO_URI is None:
+    st.error("Please set the MONGO_URI environment variable.")
+    st.stop()
+    
+llm = ChatOpenAI(model="gpt-4", temperature=0.5, api_key=OPENAI_API_KEY)
     
 client = MongoClient(MONGO_URI, server_api=ServerApi('1'))
 db = client['stockadvicedb']
