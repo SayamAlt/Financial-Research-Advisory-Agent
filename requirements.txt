@@ -1,0 +1,8 @@
+langgraph
+streamlit
+langchain
+matplotlib
+pandas
+numpy
+fpdf
+yfinance
