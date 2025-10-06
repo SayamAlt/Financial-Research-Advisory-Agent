@@ -19,6 +19,11 @@ import streamlit as st
 
 load_dotenv()
 
+if "OPENAI_API_KEY" in st.secrets:
+    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+else:
+    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+    
 if "NEWS_API_KEY" in st.secrets:
     NEWS_API_KEY = st.secrets["NEWS_API_KEY"]
 else:
@@ -28,7 +33,7 @@ if "SEC_EDGAR_API_KEY" in st.secrets:
 else:
     SEC_EDGAR_API_KEY = os.getenv("SEC_EDGAR_API_KEY")
 
-llm = ChatOpenAI(model="gpt-4", temperature=0.5)
+llm = ChatOpenAI(model="gpt-4", temperature=0.5, api_key=OPENAI_API_KEY)
 
 if "MONGO_URI" in st.secrets:
     uri = st.secrets["MONGO_URI"]

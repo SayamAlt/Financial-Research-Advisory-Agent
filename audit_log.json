@@ -2098,3 +2098,42 @@
   "filings_count": 5,
   "_id": "68e31a16da5b85192cdc43ff"
 }
+{
+  "timestamp": "2025-10-06 02:20:29.042647",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 55.0,
+  "accuracy": 38.95,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is below the typical overbought threshold of 70, indicating that the stock is not currently overbought. \n\nThe MACD, a trend-following momentum indicator, is negative at -2.24, suggesting a bearish signal. The stock's volatility is at 0.0198, indicating a moderate level of price fluctuation. The risk score is 0.36, which is relatively low, suggesting a lower risk investment.\n\nThe recent news headlines and summaries suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and the Google Cloud story taking an unexpected turn. However, the signal suggests a SELL with a confidence of 55.0% and an accuracy of 38.95%.\n\nBased on these indicators and the current market conditions, my recommendation would be to hold off on buying more shares of GOOGL at this time. If you currently own shares, consider holding them until the market shows more bullish signals. \n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consider your personal investment goals and risk tolerance before making investment decisions. It's recommended to consult with a personal financial advisor for personalized advice.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.1309564971924,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139134385,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e35fad134b35ab5ec54264"
+}
