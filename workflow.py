@@ -495,7 +495,10 @@ memory = MemorySaver()
 financial_workflow = graph.compile(checkpointer=memory)
 
 # Visualize the graph
-financial_workflow.get_graph().draw_png("financial_workflow.png")
+try:
+    financial_workflow.get_graph().draw_png("financial_workflow.png")
+except Exception as e:
+    print("Skipping graph visualization (pygraphviz not installed):", e)
 
 # Invoke the workflow
 final_result = financial_workflow.invoke(
