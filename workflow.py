@@ -19,29 +19,20 @@ import streamlit as st
 
 load_dotenv()
 
-if "OPENAI_API_KEY" in st.secrets:
-    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
-    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+if "secrets" in st.secrets:
+    OPENAI_API_KEY = st.secrets["secrets"]["OPENAI_API_KEY"]
+    NEWS_API_KEY = st.secrets["secrets"]["NEWS_API_KEY"]
+    SEC_EDGAR_API_KEY = st.secrets["secrets"]["SEC_EDGAR_API_KEY"]
+    MONGO_URI = st.secrets["secrets"]["MONGO_URI"]
 else:
-    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-    
-if "NEWS_API_KEY" in st.secrets:
-    NEWS_API_KEY = st.secrets["NEWS_API_KEY"]
-else:
-    NEWS_API_KEY = os.getenv("NEWS_API_KEY")
-if "SEC_EDGAR_API_KEY" in st.secrets: 
-    SEC_EDGAR_API_KEY = st.secrets["SEC_EDGAR_API_KEY"]
-else:
-    SEC_EDGAR_API_KEY = os.getenv("SEC_EDGAR_API_KEY")
+    OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+    NEWS_API_KEY = os.environ.get("NEWS_API_KEY")
+    SEC_EDGAR_API_KEY = os.environ.get("SEC_EDGAR_API_KEY")
+    MONGO_URI = os.environ.get("MONGO_URI")
 
 llm = ChatOpenAI(model="gpt-4", temperature=0.5)
-
-if "MONGO_URI" in st.secrets:
-    uri = st.secrets["MONGO_URI"]
-else:
-    uri = os.getenv("MONGO_URI")
     
-client = MongoClient(uri, server_api=ServerApi('1'))
+client = MongoClient(MONGO_URI, server_api=ServerApi('1'))
 db = client['stockadvicedb']
 
 market_data_col = db['market_data']
