@@ -304,14 +304,30 @@ def generate_signal(state: dict) -> dict:
     latest_features = features.tail(1)
     scaled = scaler.transform(latest_features)
     prediction = model.predict(scaled)[0]
-    prob = model.predict_proba(scaled)[0].max()
-    signal = "BUY" if prediction == 1 else "SELL" if prediction == -1 else "HOLD"
+    probs = model.predict_proba(scaled)[0]
+    buy_prob = probs[list(model.classes_).index(1)]
+    sell_prob = probs[list(model.classes_).index(-1)]
+    hold_prob = probs[list(model.classes_).index(0)]
+
+    # Confidence threshold to avoid weak signals
+    threshold = 0.55  
+
+    if buy_prob > threshold and buy_prob > sell_prob:
+        signal = "BUY"
+        confidence = buy_prob
+    elif sell_prob > threshold and sell_prob > buy_prob:
+        signal = "SELL"
+        confidence = sell_prob
+    else:
+        signal = "HOLD"
+        confidence = hold_prob
+        
     record = {
         "timestamp": str(datetime.datetime.now()),
         "action": "generate_signal",
         "symbol": symbol,
         "signal": signal,
-        "confidence": round(prob * 100, 2),
+        "confidence": round(confidence, 2),
         "accuracy": round(acc * 100, 2)
     }
     signal_col.insert_one(record)
@@ -319,7 +335,7 @@ def generate_signal(state: dict) -> dict:
         "symbol": symbol,
         "strategy": f"{signal} signal generated (confidence: {round(prob * 100, 2)}%)",
         "signal": signal,
-        "confidence": round(prob * 100, 2),
+        "confidence": round(confidence, 2),
         "accuracy": round(acc * 100, 2)
     })
 
