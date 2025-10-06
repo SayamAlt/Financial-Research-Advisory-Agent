@@ -1,0 +1,2100 @@
+{
+  "timestamp": "2025-10-05 18:58:07.211222",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 56.0,
+  "accuracy": 35.79,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated LLM Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) has shown some interesting developments. The company's evolution into a dividend-paying powerhouse is a positive sign for shareholders. The recent news also indicates that Alphabet's stock is being compared favorably to its peers in terms of size, valuation, growth, and profit margins. Furthermore, the Google Cloud story has taken an unexpected turn, which could potentially be a positive development for the company.\n\nHowever, the technical indicators suggest a different story. The 50-day moving average is above the 200-day moving average, which is typically a bearish signal. The Relative Strength Index (RSI) is at 36.57, which is nearing the oversold territory, indicating that the stock may be undervalued. The MACD is negative, suggesting a bearish trend. The stock's volatility is relatively low, indicating stability, but the risk score is moderately high at 0.36.\n\nThe provided signal suggests a SELL recommendation with a confidence level of 56.0% and an accuracy of 35.79%. However, it's important to note that this is a machine-generated signal and may not fully consider all market factors.\n\nIn light of these factors, my recommendation would be to hold the stock for now and monitor the market and company developments closely. If you are considering selling, it may be worth waiting for a more favorable market condition or a stronger sell signal.\n\nDisclaimer: This analysis is provided for informational purposes only and should not be construed as investment advice. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139136714,
+    "volatility": 0.019887513150851684,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e2f7ff1dca6166563b3124"
+}
+{
+  "timestamp": "2025-10-05 19:03:48.119244",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 58.0,
+  "accuracy": 36.84,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated LLM Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between $241.66 and $246.30 during the session. The 50-day moving average is $220.75, and the 200-day moving average is $186.13, indicating a positive trend in the stock's price. However, the Relative Strength Index (RSI) is 36.58, which is nearing the oversold territory, and the MACD is -2.24, suggesting a bearish trend.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in its price target by KeyBanc are positive indicators. However, the signal suggests a SELL with a confidence level of 58.0% and an accuracy of 36.84%.\n\nConsidering the risk score of 0.36, which is moderate, and the compliance status (PASS), my recommendation would be to monitor the stock closely. If you are a risk-averse investor, you might want to consider selling the stock or reducing your position. However, if you are willing to take on more risk and believe in the company's long-term growth potential, you might want to hold onto the stock or even consider buying more during dips.\n\nDisclaimer: This analysis is based on public information and is intended for informational purposes only. It should not be construed as personal investment advice. Investing in the stock market involves risk, and you should always conduct your own research or consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.1309564971924,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013913422,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e2f954a057323f5d87ce0d"
+}
+{
+  "timestamp": "2025-10-05 19:26:11.993207",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 46.0,
+  "accuracy": 36.84,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between $241.66 and $246.30 during the session. The 50-day moving average is $220.75, and the 200-day moving average is $186.13, indicating a positive trend in the stock's price. However, the Relative Strength Index (RSI) is 36.58, which is closer to the oversold territory, and the MACD is -2.24, suggesting a bearish trend.\n\nThe news headlines and summaries suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and a price target increase by KeyBanc. However, the signal suggests a SELL recommendation with a confidence level of 46.0% and an accuracy of 36.84%.\n\nThe risk score is 0.36, which is relatively low, indicating that the stock is less risky. However, the compliance status is PASS, which means the stock complies with the necessary regulations.\n\nBased on the above analysis, my recommendation would be to hold the stock if you already own it, given the positive news and low risk score. However, the sell signal and bearish technical indicators suggest caution if considering new investment.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice or a recommendation to buy, sell or hold any particular security. Investing involves risk, including the potential loss of principal. You should conduct your own research and consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180138894936,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e2fe9348c8953da2998519"
+}
+{
+  "timestamp": "2025-10-05 19:28:16.694990",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 49.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between $241.66 and $246.30 during the session. The 50-day moving average is $220.75, and the 200-day moving average is $186.13, indicating a positive trend in the stock's price. However, the Relative Strength Index (RSI) is 36.58, which is nearing the oversold territory, and the MACD is -2.24, suggesting a bearish trend.\n\nThe news headlines and summaries suggest a mixed sentiment towards the stock. Alphabet's evolution into a dividend-paying powerhouse and the increase in the price target by KeyBanc are positive indicators. However, the unexpected turn in the Google Cloud story could be a cause for concern.\n\nThe recent filings, including the 10-Q reports, provide detailed financial information about the company. It's recommended to review these documents for a comprehensive understanding of the company's financial health.\n\nThe provided signal suggests a SELL recommendation with a confidence level of 49.0% and an accuracy of 37.89%. The risk score is 0.36, indicating a moderate level of risk associated with the stock.\n\nBased on the above analysis, it would be prudent to monitor the stock closely before making any investment decisions. If you are considering selling, it may be worth waiting for a more definitive sell signal or a further drop in the RSI.\n\nDisclaimer: This analysis is provided for informational purposes only and should not be construed as investment advice. Investing in securities involves risk, including the potential loss of principal. You should conduct your own research and consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139136714,
+    "volatility": 0.019887513150851684,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e2ff1048c8953da2998522"
+}
+{
+  "timestamp": "2025-10-05 19:28:31.948426",
+  "symbol": "RBC",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 55.0,
+  "accuracy": 37.89,
+  "risk": "0.13",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.13.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, the Royal Bank of Canada (RBC) has a last close price of $373.99 with a trading volume of 209,400. The stock opened at $376.49 and traded between $373.66 and $380.10. The 50-day moving average is $389.89, which is higher than the last close price, indicating a potential downtrend. The 200-day moving average is $357.79, which is lower than the last close price, suggesting an overall uptrend in the longer term.\n\nThe Relative Strength Index (RSI) is 42.07, which is near the middle of the 30 (oversold) and 70 (overbought) range, indicating a balanced market condition. The MACD is -0.15, suggesting a bearish signal. The stock's volatility is 0.0142, and it has a risk score of 0.13, indicating a relatively low level of risk.\n\nThe provided signal suggests a SELL recommendation with a confidence level of 55.0% and an accuracy of 37.89%. However, it's important to note that this is a machine-generated signal and may not take into account all market factors.\n\nThe news headlines and summaries do not seem to have a direct impact on RBC's stock performance. However, the expected interest rate cut by the Bank of Canada could potentially affect the bank's profitability.\n\nThe recent filings indicate regular reporting and do not seem to contain any alarming information.\n\nIn conclusion, considering the technical indicators and the provided signal, it might be a good idea to reduce holdings in RBC. However, given the overall uptrend in the longer term, it might also be worth keeping an eye on the stock for potential buying opportunities in the future.\n\nDisclaimer: This analysis is for informational purposes only and does not constitute investment advice. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "RBC",
+    "last_close": 373.989990234375,
+    "volume": 209400,
+    "open": 376.489990234375,
+    "low": 373.6600036621094,
+    "high": 380.1000061035156
+  },
+  "feature_data": {
+    "symbol": "RBC",
+    "moving_average_50": 389.88559875488284,
+    "moving_average_200": 357.78659912109373,
+    "rsi": 42.075042601330416,
+    "macd": -0.15300365086553702,
+    "volatility": 0.014219722938110047,
+    "risk_score": 0.12905814859143408
+  },
+  "news_headlines": [
+    "These are the most 'AI-proof' software companies, according to analysts",
+    "Bank of Canada expected to deliver another interest rate cut this morning, amid weakening economy and job market",
+    "Zelenskyy praises 'well-informed' Trump after president's Russia war pivot",
+    "Stabilit\u00e9 de la Russie, poursuite du conflit en Ukraine\u00a0: le Kremlin r\u00e9agit aux d\u00e9clarations de Donald Trump",
+    "Smart-blooded super soldiers: Coming soon from DARPA"
+  ],
+  "filings_count": 5,
+  "_id": "68e2ff1f48c8953da299852a"
+}
+{
+  "timestamp": "2025-10-05 19:33:03.237379",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 53.0,
+  "accuracy": 38.95,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between $241.66 and $246.30 during the session. The 50-day moving average is $220.75, and the 200-day moving average is $186.13, indicating a positive trend in the stock's price. However, the Relative Strength Index (RSI) is 36.58, which is nearing the oversold territory, and the MACD is -2.24, suggesting a bearish trend.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in its dividend are positive signs for shareholders. The company's comparison with its peers and the unexpected turn in the Google Cloud story could also be of interest to investors. KeyBanc's price target increase is another positive sign.\n\nThe recent filings, including the 10-Q reports, provide detailed financial information about the company. The S-8 filings indicate that the company is offering securities to its employees, which could be a sign of confidence in the company's future.\n\nHowever, the provided signal suggests a SELL recommendation with a confidence level of 53.0% and an accuracy of 38.95%. The risk score is 0.36, indicating a moderate level of risk.\n\nBased on this analysis, it might be advisable to hold off on buying more shares until the market shows clearer signs of a bullish trend. If you already own shares, you might want to consider holding them given the positive news and the company's overall performance.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice or a recommendation to buy, sell or hold any particular security. Investing involves risk, including the potential loss of principal. You should conduct your own research and consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.1309564971924,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139134385,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3002f5a12463db7d11d1d"
+}
+{
+  "timestamp": "2025-10-05 19:33:49.834028",
+  "symbol": "IFC.TO",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 47.0,
+  "accuracy": 40.0,
+  "risk": "0.31",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.31.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data for the stock symbol IFC.TO, it appears that the stock is currently trading below both its 50-day and 200-day moving averages, which are at 276.65 and 282.91 respectively. This could indicate a bearish trend. The Relative Strength Index (RSI) is at 44.33, which is below the typical overbought threshold of 70, suggesting the stock is not currently overbought. The MACD (Moving Average Convergence Divergence) is positive, which typically indicates bullish momentum, but this is contradicted by the sell signal with a confidence of 47.0% and an accuracy of 40.0%.\n\nThe stock's volatility is relatively low at 0.01, and it has a risk score of 0.31, which is also relatively low. This suggests that the stock's price movements have been relatively stable and the risk associated with the stock is moderate.\n\nGiven these factors, it may be advisable to hold off on purchasing this stock until there are clearer signs of a bullish trend. However, if you are already holding this stock, you may want to consider the sell signal, but keep in mind the relatively low confidence and accuracy of this signal.\n\nDisclaimer: This analysis is provided for informational purposes only and is not intended as investment advice. Investing in the stock market involves risk, including the risk of loss. Always conduct your own research and consider your financial situation and risk tolerance before making investment decisions.",
+  "market_data": {
+    "symbol": "IFC.TO",
+    "last_close": 269.1099853515625,
+    "volume": 269800,
+    "open": 268.260009765625,
+    "low": 267.3299865722656,
+    "high": 270.17999267578125
+  },
+  "feature_data": {
+    "symbol": "IFC.TO",
+    "moving_average_50": 276.64869812011716,
+    "moving_average_200": 282.90863739013673,
+    "rsi": 44.33068633466244,
+    "macd": 0.7270496417617887,
+    "volatility": 0.01069871611335037,
+    "risk_score": 0.30829469308298185
+  },
+  "news_headlines": [],
+  "filings_count": 0,
+  "_id": "68e3005d5a12463db7d11d25"
+}
+{
+  "timestamp": "2025-10-05 19:37:03.456380",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 50.0,
+  "accuracy": 36.84,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock's 50-day moving average is $220.75 and the 200-day moving average is $186.13. The Relative Strength Index (RSI) is 36.58, which is below the typical overbought threshold, indicating that the stock may be undervalued. However, the MACD is negative, suggesting a bearish trend.\n\nRecent news headlines suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and a price target increase from KeyBanc. However, the signal provided is a SELL with a confidence of 50.0% and an accuracy of 36.84%.\n\nGiven the mixed signals from the technical indicators and the positive news sentiment, it may be prudent to hold the stock if you already own it. If you are considering buying, it may be worth waiting for more bullish signals or for the stock to reach a more attractive entry point.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. It's important to consider your financial situation, investment objectives, and risk tolerance before making any investment decisions. Always consult with a licensed financial advisor or do your own thorough research before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095611572265,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801391530547,
+    "volatility": 0.019887513150851674,
+    "risk_score": 0.3591001052068134
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3011fc1de01ced9544498"
+}
+{
+  "timestamp": "2025-10-05 19:38:28.478422",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 48.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and fluctuated between a low of $241.66 and a high of $246.30. The news headlines suggest a positive sentiment towards the stock, with Alphabet's evolution into a dividend-paying powerhouse and a price target boost from KeyBanc.\n\nThe company's recent filings include several 10-Q reports, which are quarterly reports that provide a comprehensive overview of a company's performance. The filings also include Form S-8 and S-8 POS, which relate to securities offered to employees in employee benefit plans.\n\nThe 50-day moving average of $220.75 and the 200-day moving average of $186.13 suggest a bullish trend in the long term. However, the Relative Strength Index (RSI) of 36.58 indicates the stock is nearing oversold territory, which could signal a potential reversal in the near future. The MACD of -2.24 may also suggest a bearish trend.\n\nThe provided signal suggests a SELL recommendation with a confidence level of 48.0% and an accuracy of 37.89%. The risk score is 0.36, indicating a moderate level of risk.\n\nBased on this analysis, it might be prudent to hold off on buying more shares until the RSI and MACD indicate a more bullish trend. However, if you already own shares and are comfortable with the risk level, holding onto them could be beneficial given the positive news sentiment and the company's evolution into a dividend-paying powerhouse.\n\nDisclaimer: This analysis is provided for informational purposes only and should not be interpreted as investment advice. Investing in the stock market involves risk, and you should always conduct your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139136714,
+    "volatility": 0.019887513150851684,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e30174eda68b2ce06256b8"
+}
+{
+  "timestamp": "2025-10-05 19:38:49.322037",
+  "symbol": "MSFT",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 58.0,
+  "accuracy": 32.63,
+  "risk": "0.17",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.17.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Microsoft (MSFT) has a last close price of $517.35 with a trading volume of 15,104,200. The stock's 50-day moving average is $512.64, and the 200-day moving average is $450.80, indicating a positive trend in the short and long term. The Relative Strength Index (RSI) is 52.02, which suggests the stock is neither overbought nor oversold. The MACD value is 0.94, which may indicate a bullish trend. However, the stock's volatility is 0.009, which is relatively low, and the risk score is 0.17, indicating a moderate level of risk.\n\nThe news headlines suggest that Microsoft is poised to benefit from advancements in quantum computing and big data. The company has also recently secured a multi-billion Nebius deal to secure 100,000 Nvidia AI chips, which could potentially fuel growth.\n\nHowever, the provided signal suggests a SELL recommendation with a confidence level of 58.0% and an accuracy of 32.63%. This suggests that the model predicting this signal may not have a high degree of accuracy.\n\nGiven the above analysis, it would be prudent to hold the stock if you already own it, considering the positive news and the upward trend indicated by the moving averages. However, the SELL signal and its associated confidence and accuracy levels should be taken into account if you're considering buying more shares or entering a new position.\n\nDisclaimer: This analysis is provided for informational purposes only and should not be construed as investment advice. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "MSFT",
+    "last_close": 517.3499755859375,
+    "volume": 15104200,
+    "open": 517.0999755859375,
+    "low": 515.0,
+    "high": 520.489990234375
+  },
+  "feature_data": {
+    "symbol": "MSFT",
+    "moving_average_50": 512.6416467285156,
+    "moving_average_200": 450.79943740844726,
+    "rsi": 52.016204336410034,
+    "macd": 0.9407448288400311,
+    "volatility": 0.00898173547876715,
+    "risk_score": 0.1659283667141403
+  },
+  "news_headlines": [
+    "The Zacks Analyst Blog Highlights NVIDIA, Microsoft, IBM, D-Wave and IonQ",
+    "Stocks to Gain From Quantum Computing in 2025: MSFT, IBM, QBTS, IONQ",
+    "Buy 5 Big Data Behemoths to Benefit From Enormous Market Opportunity",
+    "Reader Response to \"AI Overinvestment\"",
+    "MSFT: Microsoft Inks Multi-Billion Nebius Deal to Secure 100,000 Nvidia AI Chips"
+  ],
+  "filings_count": 5,
+  "_id": "68e30189eda68b2ce06256c0"
+}
+{
+  "timestamp": "2025-10-05 19:39:55.193788",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 53.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) has shown some interesting developments. The company has recently evolved into a dividend-paying powerhouse with a 5% increase, which is a positive sign for income-focused investors. The recent news also suggests that Alphabet's stock is being compared favorably to its peers in terms of size, valuation, growth, and profit margins. \n\nHowever, the technical indicators suggest a bearish trend. The 50-day moving average (220.75) is above the last closing price (245.35), and the Relative Strength Index (RSI) is at 36.58, which is closer to the oversold territory. The MACD is also negative, indicating a potential downward momentum. The signal suggests a SELL with a confidence level of 53.0% and an accuracy of 37.89%.\n\nThe risk score is 0.36, which is relatively low, indicating that the stock is less risky compared to other stocks. However, the volatility of 0.0198 suggests that the stock price can fluctuate, which could lead to potential losses.\n\nGiven these factors, my recommendation would be to monitor the stock closely. If you are a risk-averse investor, you might want to consider selling the stock or reducing your position. However, if you are willing to take on more risk and believe in the long-term prospects of the company, you might want to hold onto the stock or even consider buying more if the price drops further.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice. Investing in stocks involves risk, including the loss of principal. You should conduct your own research and consult with a qualified financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139136769,
+    "volatility": 0.01988751315085169,
+    "risk_score": 0.35910010520681357
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e301cbeda68b2ce06256c9"
+}
+{
+  "timestamp": "2025-10-05 19:40:11.555739",
+  "symbol": "MSFT",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 60.0,
+  "accuracy": 31.58,
+  "risk": "0.17",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.17.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Microsoft (MSFT) has a last close price of $517.35 with a trading volume of 15,104,200. The stock has a 50-day moving average of $512.64 and a 200-day moving average of $450.80, indicating a positive trend in the short and long term. The Relative Strength Index (RSI) is 52.02, which suggests the stock is neither overbought nor oversold. The MACD value is 0.94, which may indicate a bullish trend. However, the stock's volatility is 0.009, which is relatively low, and the risk score is 0.17, indicating a low-risk investment.\n\nThe news headlines suggest that Microsoft is making significant advancements in quantum computing and big data, which could potentially drive future growth. The company has also recently secured a multi-billion Nebius deal to secure 100,000 Nvidia AI chips, which could further enhance its position in the AI market.\n\nHowever, the provided signal suggests a SELL recommendation with a confidence level of 60.0% and an accuracy of 31.58%. This could be due to various factors not reflected in the current data, such as future market expectations, industry trends, or company-specific news.\n\nGiven the above analysis, it's crucial to consider your financial goals, risk tolerance, and investment horizon before making a decision. If you're a long-term investor and believe in Microsoft's growth prospects, you might consider holding the stock despite the sell signal. However, if you're a short-term trader, the sell signal might be an indication to reduce your position.\n\nDisclaimer: This analysis is for informational purposes only and does not constitute investment advice. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "MSFT",
+    "last_close": 517.3499755859375,
+    "volume": 15104200,
+    "open": 517.0999755859375,
+    "low": 515.0,
+    "high": 520.489990234375
+  },
+  "feature_data": {
+    "symbol": "MSFT",
+    "moving_average_50": 512.6416467285156,
+    "moving_average_200": 450.7994372558594,
+    "rsi": 52.016204336410034,
+    "macd": 0.9407448291720026,
+    "volatility": 0.008981735478767131,
+    "risk_score": 0.16592836674733732
+  },
+  "news_headlines": [
+    "The Zacks Analyst Blog Highlights NVIDIA, Microsoft, IBM, D-Wave and IonQ",
+    "Stocks to Gain From Quantum Computing in 2025: MSFT, IBM, QBTS, IONQ",
+    "Buy 5 Big Data Behemoths to Benefit From Enormous Market Opportunity",
+    "Reader Response to \"AI Overinvestment\"",
+    "MSFT: Microsoft Inks Multi-Billion Nebius Deal to Secure 100,000 Nvidia AI Chips"
+  ],
+  "filings_count": 5,
+  "_id": "68e301dbeda68b2ce06256d1"
+}
+{
+  "timestamp": "2025-10-05 19:49:34.917410",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 54.0,
+  "accuracy": 36.84,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock's 50-day moving average is $220.75 and the 200-day moving average is $186.13. The Relative Strength Index (RSI) is 36.58, which is near the oversold territory, suggesting that the stock may be undervalued. However, the MACD, a trend-following momentum indicator, is negative, indicating a bearish signal.\n\nThe news headlines suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and a price target increase from KeyBanc. However, the signal suggests a SELL with a confidence of 54.0% and an accuracy of 36.84%.\n\nConsidering the market data, feature data, and news, it seems that there are mixed signals about the stock's future performance. The company's fundamentals appear strong, but the technical indicators suggest a potential downturn.\n\nGiven the risk score of 0.36, which is relatively low, and the compliance pass, my recommendation would be to hold the stock if you already own it. If you are considering buying, it may be worth waiting for a more definitive buy signal or for the stock to reach a more attractive price point.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as financial advice. Investing in the stock market involves risk, and you should always do your own research or consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095672607423,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801388887204,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3040eebdcdd9a15455de5"
+}
+{
+  "timestamp": "2025-10-05 19:50:05.324061",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 52.0,
+  "accuracy": 34.74,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between $241.66 and $246.30 during the session. The 50-day moving average is $220.75, and the 200-day moving average is $186.13, indicating a positive trend. However, the Relative Strength Index (RSI) is 36.58, which is nearing the oversold territory, and the MACD is -2.24, suggesting a bearish trend.\n\nThe news headlines and summaries suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and KeyBanc's price target increase. However, the signal suggests a SELL with a confidence level of 52.0% and an accuracy of 34.74%.\n\nThe risk score is 0.36, which is relatively low, indicating that the stock is less risky. However, the compliance status is PASS, which means there are no compliance issues with the stock.\n\nBased on the above analysis, my recommendation would be to hold the stock for now and monitor the market closely. If the RSI continues to drop, it might be a good opportunity to buy more shares as the stock could be oversold. However, if the MACD continues to be negative, it might be a good idea to sell some shares to protect your investment.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice or a recommendation to buy, sell or hold any particular security. Investing involves risk, including the potential loss of principal. You should conduct your own research and consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180138894856,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3042debdcdd9a15455dee"
+}
+{
+  "timestamp": "2025-10-05 19:50:34.563707",
+  "symbol": "TSLA",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 82.0,
+  "accuracy": 46.32,
+  "risk": "0.33",
+  "compliance_status": "REVIEW",
+  "compliance_reason": "TSLA is in the restricted list and needs manual review.",
+  "decision_source": "Manual Compliance Review",
+  "final_advice": "Manual review required due to compliance.",
+  "market_data": {
+    "symbol": "TSLA",
+    "last_close": 429.8299865722656,
+    "volume": 132772600,
+    "open": 443.2900085449219,
+    "low": 416.5799865722656,
+    "high": 446.7699890136719
+  },
+  "feature_data": {
+    "symbol": "TSLA",
+    "moving_average_50": 363.664599609375,
+    "moving_average_200": 335.18939964294435,
+    "rsi": 56.48469440203389,
+    "macd": -0.8538628417478016,
+    "volatility": 0.03002438666594111,
+    "risk_score": 0.3255813775023091
+  },
+  "news_headlines": [
+    "NIO's ES8 Deliveries Begin This Week: Can It Compete With TSLA and LI?",
+    "Apple's New iPhone 17 Lineup Has Wall Street Already Looking to Next Year",
+    "What\u2019s Driving Tesla Stock\u2019s Surge?",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "Was Cathie Wood Right About Tesla (TSLA)?"
+  ],
+  "filings_count": 5,
+  "_id": "68e3044aebdcdd9a15455df6"
+}
+{
+  "timestamp": "2025-10-05 19:52:37.295977",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 54.0,
+  "accuracy": 34.74,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between $241.66 and $246.30 during the session. The 50-day moving average is $220.75, and the 200-day moving average is $186.13, indicating a positive trend. However, the Relative Strength Index (RSI) is 36.58, which is nearing the oversold territory, and the MACD is -2.24, suggesting a bearish trend.\n\nThe news headlines and summaries suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and KeyBanc's price target increase. However, the signal suggests a SELL with a confidence level of 54.0% and an accuracy of 34.74%.\n\nThe risk score is 0.36, which is relatively low, indicating that the stock is less risky. However, the compliance status is PASS, which means there are no compliance issues with the stock.\n\nBased on the above analysis, my recommendation would be to hold the stock for now and monitor the market closely. If the RSI continues to drop and enters the oversold territory, it might be a good opportunity to buy the stock. However, if the MACD continues to be negative, it might be a good idea to sell the stock.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice or a recommendation to buy, sell or hold any particular security. Investing involves risk, including the potential loss of principal. You should conduct your own research and consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095611572265,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013915303,
+    "volatility": 0.019887513150851674,
+    "risk_score": 0.3591001052068134
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e304c56c0d9bbbc83a90d2"
+}
+{
+  "timestamp": "2025-10-05 19:52:49.020398",
+  "symbol": "TSLA",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 81.0,
+  "accuracy": 45.26,
+  "risk": "0.33",
+  "compliance_status": "REVIEW",
+  "compliance_reason": "TSLA is in the restricted list and needs manual review.",
+  "decision_source": "Manual Compliance Review",
+  "final_advice": "Manual review required due to compliance.",
+  "market_data": {
+    "symbol": "TSLA",
+    "last_close": 429.8299865722656,
+    "volume": 132772600,
+    "open": 443.2900085449219,
+    "low": 416.5799865722656,
+    "high": 446.7699890136719
+  },
+  "feature_data": {
+    "symbol": "TSLA",
+    "moving_average_50": 363.664599609375,
+    "moving_average_200": 335.18939964294435,
+    "rsi": 56.48469440203389,
+    "macd": -0.8538628417478016,
+    "volatility": 0.03002438666594111,
+    "risk_score": 0.3255813775023091
+  },
+  "news_headlines": [
+    "NIO's ES8 Deliveries Begin This Week: Can It Compete With TSLA and LI?",
+    "Apple's New iPhone 17 Lineup Has Wall Street Already Looking to Next Year",
+    "What\u2019s Driving Tesla Stock\u2019s Surge?",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "Was Cathie Wood Right About Tesla (TSLA)?"
+  ],
+  "filings_count": 5,
+  "_id": "68e304d16c0d9bbbc83a90da"
+}
+{
+  "timestamp": "2025-10-05 19:54:23.133179",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 45.0,
+  "accuracy": 34.74,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock's 50-day moving average is $220.75, and the 200-day moving average is $186.13. The Relative Strength Index (RSI) is 36.58, which is below the typical overbought threshold, indicating the stock may be undervalued. However, the MACD, a trend-following momentum indicator, is negative, suggesting a bearish trend.\n\nThe news headlines and summaries suggest a positive outlook for Alphabet Inc., with the company evolving into a dividend-paying powerhouse and a raised price target from KeyBanc. However, the signal provided is a SELL with a confidence of 45.0% and an accuracy of 34.74%.\n\nGiven the mixed signals from the technical indicators and the positive news sentiment, it might be prudent to hold the stock if you already own it. If you are considering buying, it may be worth waiting for more bullish signals or for the stock to reach a more attractive entry point.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Investing in the stock market always carries risk, and it's important to consider your financial position and risk tolerance before making investment decisions. Always consult with a financial advisor or do your own thorough research before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801391370746,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3052f9fc7eda3ea98fe51"
+}
+{
+  "timestamp": "2025-10-05 19:54:32.540505",
+  "symbol": "TSLA",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 80.0,
+  "accuracy": 48.42,
+  "risk": "0.33",
+  "compliance_status": "REVIEW",
+  "compliance_reason": "TSLA is in the restricted list and needs manual review.",
+  "decision_source": "Manual Compliance Review",
+  "final_advice": "Manual review required due to compliance.",
+  "market_data": {
+    "symbol": "TSLA",
+    "last_close": 429.8299865722656,
+    "volume": 132772600,
+    "open": 443.2900085449219,
+    "low": 416.5799865722656,
+    "high": 446.7699890136719
+  },
+  "feature_data": {
+    "symbol": "TSLA",
+    "moving_average_50": 363.664599609375,
+    "moving_average_200": 335.18939964294435,
+    "rsi": 56.48469440203389,
+    "macd": -0.8538628417478016,
+    "volatility": 0.03002438666594111,
+    "risk_score": 0.3255813775023091
+  },
+  "news_headlines": [
+    "NIO's ES8 Deliveries Begin This Week: Can It Compete With TSLA and LI?",
+    "Apple's New iPhone 17 Lineup Has Wall Street Already Looking to Next Year",
+    "What\u2019s Driving Tesla Stock\u2019s Surge?",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "Was Cathie Wood Right About Tesla (TSLA)?"
+  ],
+  "filings_count": 5,
+  "_id": "68e305389fc7eda3ea98fe59"
+}
+{
+  "timestamp": "2025-10-05 19:55:58.960956",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 51.0,
+  "accuracy": 38.95,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock's 50-day moving average is $220.75 and the 200-day moving average is $186.13. The Relative Strength Index (RSI) is 36.58, which is below the typical overbought threshold, indicating the stock may be undervalued. However, the MACD is negative, suggesting a bearish trend.\n\nThe news headlines suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and a price target boost from KeyBanc. However, the signal provided is a SELL with a confidence of 51.0% and an accuracy of 38.95%.\n\nConsidering the mixed signals from the technical indicators and the positive news sentiment, it might be prudent to hold the stock if you already own it. If you are considering buying, it may be worth waiting for more bullish signals or a lower entry point.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Investing in the stock market always carries risk, and you should consider your financial situation and risk tolerance before making any investment decisions. Always consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095672607423,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801388888074,
+    "volatility": 0.019887513150851664,
+    "risk_score": 0.35910010520681335
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3058e96bf25dff5a57efb"
+}
+{
+  "timestamp": "2025-10-05 19:56:29.118817",
+  "symbol": "TD",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 54.0,
+  "accuracy": 33.68,
+  "risk": "0.15",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.15.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, TD's last closing price was $81.23 with a trading volume of 2,596,600. The stock opened at $80.28 and fluctuated between a low of $80.13 and a high of $81.74. The 50-day moving average is $75.67, and the 200-day moving average is $65.03, indicating a positive trend in the stock's performance. The Relative Strength Index (RSI) is 73.87, which is above the typical overbought threshold of 70, suggesting the stock may be overpriced. The MACD (Moving Average Convergence Divergence) is 0.13, indicating a bullish trend.\n\nThe news headlines do not seem to directly relate to TD, and the recent filings are standard 6-K forms, which are periodic reports filed by foreign private issuers.\n\nThe provided signal suggests a SELL recommendation with a confidence level of 54.0% and an accuracy of 33.68%. The risk score is 0.15, which is relatively low, indicating a lower probability of potential loss.\n\nBased on this analysis, it might be a good idea to consider selling TD shares. However, this recommendation is based on historical data and indicators, and it does not guarantee future performance. It's crucial to consider your financial situation, risk tolerance, and investment goals before making any investment decisions.\n\nDisclaimer: This analysis is provided for informational purposes only and should not be construed as investment advice. Always conduct your own research and consult with a licensed financial advisor before making any investment decisions. Investing in the stock market involves risk, including the potential loss of principal.",
+  "market_data": {
+    "symbol": "TD",
+    "last_close": 81.2300033569336,
+    "volume": 2596600,
+    "open": 80.27999877929688,
+    "low": 80.12999725341797,
+    "high": 81.73999786376953
+  },
+  "feature_data": {
+    "symbol": "TD",
+    "moving_average_50": 75.66539978027343,
+    "moving_average_200": 65.03375122070312,
+    "rsi": 73.86663031691423,
+    "macd": 0.13148615577518608,
+    "volatility": 0.012777468964303157,
+    "risk_score": 0.14759028659956241
+  },
+  "news_headlines": [
+    "How all the 2025 iPhone models compare on paper",
+    "Legion Go 2 official: Lenovo\u2019s new flagship handheld costs $1,099 \u2014 and up",
+    "Microsoft is raising prices on Xbox consoles in the US again",
+    "Apple Updates Trade-In Values Following iPhone 17 Event",
+    "Hands-on: Nvidia\u2019s GeForce Now RTX 5080 is better and worse than I hoped"
+  ],
+  "filings_count": 5,
+  "_id": "68e305ad96bf25dff5a57f03"
+}
+{
+  "timestamp": "2025-10-05 20:00:39.813160",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 56.0,
+  "accuracy": 35.79,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock's 50-day moving average is $220.75 and the 200-day moving average is $186.13. The Relative Strength Index (RSI) is 36.58, which is below the typical overbought threshold, indicating that the stock may be undervalued. However, the MACD, a trend-following momentum indicator, is negative, suggesting a bearish trend.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in its dividend is a positive sign for investors. The company's comparison with its peers in terms of size, valuation, growth, and profit margins, as well as the unexpected turn in the Google Cloud story, are also noteworthy. KeyBanc's price target increase on Alphabet is another positive signal.\n\nHowever, the provided signal suggests a SELL recommendation with a confidence level of 56.0% and an accuracy of 35.79%. The risk score is 0.36, indicating a moderate level of risk.\n\nGiven the mixed signals from the technical indicators and the positive news, it might be prudent to hold the stock for now and monitor the situation closely. If you are considering selling, it may be worth waiting for a more definitive sell signal or a higher confidence level.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered financial advice. Each individual should consult with a financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095672607423,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801388887204,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e306a71e86e39c5ee6cb06"
+}
+{
+  "timestamp": "2025-10-05 20:03:13.207806",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 54.0,
+  "accuracy": 36.84,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock's 50-day moving average is $220.75 and the 200-day moving average is $186.13. The Relative Strength Index (RSI) is 36.58, which is near the oversold territory, suggesting that the stock may be undervalued. However, the MACD, a trend-following momentum indicator, is negative, indicating a bearish trend.\n\nThe news headlines suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and KeyBanc's price target increase. However, the signal suggests a sell recommendation with a confidence level of 54% and an accuracy of 36.84%.\n\nGiven the mixed signals from the technical indicators and the sell signal, it might be prudent to hold off on buying more shares of GOOGL until there are clearer signs of an upward trend. If you currently hold GOOGL shares, you may want to consider your risk tolerance and investment goals before deciding whether to sell.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Investing in the stock market always carries risk, and it's important to research and consider multiple sources of information before making investment decisions. Always consult with a professional financial advisor before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801391368223,
+    "volatility": 0.019887513150851684,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3074104a7d9a1961470a4"
+}
+{
+  "timestamp": "2025-10-05 20:03:30.459972",
+  "symbol": "RBC",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 51.0,
+  "accuracy": 37.89,
+  "risk": "0.13",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.13.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, the stock of RBC (Regal Beloit Corporation) has shown a downward trend with its last close at $373.99, which is below its 50-day moving average of $389.88. The Relative Strength Index (RSI) is at 42.07, indicating that the stock is nearing oversold territory. The MACD (Moving Average Convergence Divergence) is also negative, suggesting a bearish trend. \n\nThe news headlines do not seem to have a direct impact on the company's performance. However, the Bank of Canada's expected interest rate cut could indirectly affect the financial sector, including RBC. \n\nThe company's recent filings, including the 8-K and 10-Q forms, should be reviewed for any significant updates or changes in the company's financial position. \n\nThe provided signal suggests a SELL recommendation with a confidence level of 51.0% and an accuracy of 37.89%. The risk score is relatively low at 0.13, indicating a lower level of risk associated with this investment.\n\nBased on these factors, it might be a good idea to consider selling RBC shares. However, this recommendation is based on the current data and trends, and the stock market is inherently unpredictable and subject to change. \n\nDisclaimer: This analysis is provided for informational purposes only and should not be construed as investment advice. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "RBC",
+    "last_close": 373.989990234375,
+    "volume": 209400,
+    "open": 376.489990234375,
+    "low": 373.6600036621094,
+    "high": 380.1000061035156
+  },
+  "feature_data": {
+    "symbol": "RBC",
+    "moving_average_50": 389.88559875488284,
+    "moving_average_200": 357.78659912109373,
+    "rsi": 42.075042601330416,
+    "macd": -0.15300365086553702,
+    "volatility": 0.014219722938110047,
+    "risk_score": 0.12905814859143408
+  },
+  "news_headlines": [
+    "These are the most 'AI-proof' software companies, according to analysts",
+    "Bank of Canada expected to deliver another interest rate cut this morning, amid weakening economy and job market",
+    "Zelenskyy praises 'well-informed' Trump after president's Russia war pivot",
+    "Stabilit\u00e9 de la Russie, poursuite du conflit en Ukraine\u00a0: le Kremlin r\u00e9agit aux d\u00e9clarations de Donald Trump",
+    "Smart-blooded super soldiers: Coming soon from DARPA"
+  ],
+  "filings_count": 5,
+  "_id": "68e3075204a7d9a1961470ac"
+}
+{
+  "timestamp": "2025-10-05 20:04:34.203883",
+  "symbol": "META",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 74.0,
+  "accuracy": 44.21,
+  "risk": "0.32",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.32.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Meta Platforms Inc. (META) has been experiencing some volatility, with a risk score of 0.32. The stock's 50-day moving average is $752.28, which is higher than its last close at $710.56, indicating a downward trend. The 200-day moving average is $666.21, which is lower than the current price, suggesting a longer-term upward trend. The Relative Strength Index (RSI) is 27.88, which is near the oversold territory, suggesting that the stock may be undervalued.\n\nThe company has been making significant announcements, including improvements to its social platform Horizon Worlds, a partnership with James Cameron's Lightstorm Vision, and the introduction of new wearable technology. These developments could potentially drive future growth.\n\nHowever, the sell signal has a confidence level of 74.0% and an accuracy of 44.21%. This suggests that the algorithm predicts a higher probability of the stock price going down in the short term.\n\nGiven these factors, my recommendation would be to hold off on buying META shares at this time and monitor the stock for potential future opportunities. If you already own META shares, you may want to consider your risk tolerance and investment goals before deciding whether to hold or sell.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice. Investing in the stock market involves risk, and you should always conduct your own research or consult with a licensed financial advisor before making any investment decisions. Past performance is not indicative of future results.",
+  "market_data": {
+    "symbol": "META",
+    "last_close": 710.5599975585938,
+    "volume": 16110000,
+    "open": 729.6300048828125,
+    "low": 710.1799926757812,
+    "high": 731.0
+  },
+  "feature_data": {
+    "symbol": "META",
+    "moving_average_50": 752.2856311035156,
+    "moving_average_200": 666.2094172668457,
+    "rsi": 27.877559715146006,
+    "macd": -6.101790243594135,
+    "volatility": 0.012434999632776283,
+    "risk_score": 0.3171669994359936
+  },
+  "news_headlines": [
+    "Meta is making the metaverse look better",
+    "James Cameron on AI: it\u2019s \u2018just as creative\u2019 as people, but with no \u2018unique lived experience\u2019",
+    "Meta Connect 2025: the 6 biggest announcements",
+    "Meta\u2019s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder",
+    "Meta Poaches OpenAI Scientist to Help Lead AI Lab"
+  ],
+  "filings_count": 5,
+  "_id": "68e3079204a7d9a1961470b4"
+}
+{
+  "timestamp": "2025-10-05 20:10:11.302888",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 40.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Alphabet Inc. (GOOGL) closed at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between $241.66 and $246.30 during the session. The 50-day moving average is $220.75, and the 200-day moving average is $186.13, indicating a positive trend in the stock's price. However, the Relative Strength Index (RSI) is 36.58, which is nearing the oversold territory, and the MACD is -2.24, suggesting a bearish trend.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in its price target by KeyBanc are positive indicators. However, the signal suggests a SELL with a confidence of 40.0% and an accuracy of 37.89%. The risk score is 0.36, which is moderate.\n\nConsidering the above analysis, my recommendation would be to hold the stock for now and monitor the market closely. If the RSI continues to drop, it might be a good opportunity to buy more shares as the stock could be oversold. However, if the MACD continues to be negative, it might be a good idea to sell some shares to mitigate potential losses.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice. Investing in stocks involves risk, including the loss of principal. Please consult with a registered financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095611572265,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013915303,
+    "volatility": 0.019887513150851674,
+    "risk_score": 0.3591001052068134
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e308e31b3b2f005a5dda2b"
+}
+{
+  "timestamp": "2025-10-05 20:10:28.185813",
+  "symbol": "META",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 67.0,
+  "accuracy": 42.11,
+  "risk": "0.32",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.32.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Based on the provided data, Meta Platforms Inc. (META) closed at $710.56 with a trading volume of 16,110,000. The stock opened at $729.63 and traded between $710.18 and $731.00. The company has been making significant strides in the tech industry, with recent news highlighting improvements to its social platform Horizon Worlds, a partnership with James Cameron's Lightstorm Vision, and the introduction of new wearable technology. \n\nHowever, the technical indicators suggest a bearish trend. The 50-day moving average of $752.29 is higher than the last closing price, and the Relative Strength Index (RSI) is at 27.88, which is generally considered oversold. The Moving Average Convergence Divergence (MACD) is also negative, indicating a downward momentum. \n\nThe signal suggests a SELL with a confidence level of 67.0% and an accuracy of 42.11%. The risk score is 0.32, indicating a moderate level of risk. \n\nGiven these factors, my recommendation would be to consider selling META shares at this time. However, it's important to note that this advice is based on the current market data and trends, and market conditions can change rapidly. \n\nDisclaimer: This analysis is for informational purposes only and does not constitute investment advice. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "META",
+    "last_close": 710.5599975585938,
+    "volume": 16110000,
+    "open": 729.6300048828125,
+    "low": 710.1799926757812,
+    "high": 731.0
+  },
+  "feature_data": {
+    "symbol": "META",
+    "moving_average_50": 752.2856311035156,
+    "moving_average_200": 666.2094163513184,
+    "rsi": 27.877559715146006,
+    "macd": -6.101790250122158,
+    "volatility": 0.01243499963277633,
+    "risk_score": 0.3171669994359939
+  },
+  "news_headlines": [
+    "Meta is making the metaverse look better",
+    "James Cameron on AI: it\u2019s \u2018just as creative\u2019 as people, but with no \u2018unique lived experience\u2019",
+    "Meta Connect 2025: the 6 biggest announcements",
+    "Meta\u2019s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder",
+    "Meta Poaches OpenAI Scientist to Help Lead AI Lab"
+  ],
+  "filings_count": 5,
+  "_id": "68e308f41b3b2f005a5dda33"
+}
+{
+  "timestamp": "2025-10-05 20:14:23.396252",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 50.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, significantly below the last close, and the 200-day moving average at $186.13, even further below. This suggests that the stock has been trading at a higher price recently compared to its average price over the past 50 and 200 days. \n\nThe Relative Strength Index (RSI) is at 36.58, which is closer to the oversold threshold of 30, indicating that the stock may be undervalued. However, the MACD (Moving Average Convergence Divergence) is negative, suggesting a bearish trend. \n\nThe stock's volatility is at 0.0198, indicating a moderate level of price fluctuation, and the risk score is 0.36, suggesting a moderate level of risk. \n\nThe news headlines suggest a positive outlook for Alphabet, with mentions of a dividend increase, a positive comparison with peers, and a price target boost from KeyBanc. However, the signal provided is a 'SELL' with a confidence of 50.0% and an accuracy of 37.89%.\n\nBased on these indicators, it may be advisable to hold off on buying more shares of GOOGL until there are stronger bullish signals. If you currently hold shares, you may want to consider selling or holding depending on your risk tolerance and investment horizon. \n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consider your personal investment goals and risk tolerance before making investment decisions. Consult with a financial advisor for personalized advice.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801391370746,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e309dfb994c5f3a5cd90e7"
+}
+{
+  "timestamp": "2025-10-05 20:16:29.478960",
+  "symbol": "AMZN",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 72.0,
+  "accuracy": 37.89,
+  "risk": "0.21",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.21.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, it appears that Amazon (AMZN) is currently in a downtrend. The stock's last close was at $219.51, which is below both the 50-day moving average of $226.60 and the 200-day moving average of $214.58. This suggests that the stock is experiencing a bearish trend in the short term and could potentially be undervalued in the long term.\n\nThe Relative Strength Index (RSI) is at 31.00, which is below the typical oversold threshold of 30. This could indicate that the stock is oversold and may be due for a price correction. However, the Moving Average Convergence Divergence (MACD) is negative, suggesting that the bearish momentum is strong.\n\nThe stock's volatility is at 0.01588, indicating a relatively low level of price fluctuation. The risk score is 0.21, which is relatively low, suggesting that the stock is less risky compared to other stocks in the market.\n\nThe recent news headlines suggest that Amazon's competitors, such as Microsoft, are making significant moves in the tech industry. This could potentially impact Amazon's market position and should be taken into consideration.\n\nThe latest SEC filings show regular updates, including quarterly reports and current reports, which is a positive sign of the company's transparency and regulatory compliance.\n\nThe provided signal suggests a sell recommendation with a confidence level of 72.0% and an accuracy of 37.89%. However, given the stock's current technical indicators, it may be worth considering holding onto the stock for a potential price correction due to its oversold status.\n\nPlease note that this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consider your personal investment goals, risk tolerance, and financial situation before making investment decisions. Investing in the stock market involves risk, including the potential loss of principal.",
+  "market_data": {
+    "symbol": "AMZN",
+    "last_close": 219.50999450683594,
+    "volume": 43572100,
+    "open": 223.44000244140625,
+    "low": 219.33999633789062,
+    "high": 224.1999969482422
+  },
+  "feature_data": {
+    "symbol": "AMZN",
+    "moving_average_50": 226.6011996459961,
+    "moving_average_200": 214.5837001800537,
+    "rsi": 31.00702594332857,
+    "macd": -0.8699270400401531,
+    "volatility": 0.015880690894000057,
+    "risk_score": 0.21403823115601578
+  },
+  "news_headlines": [
+    "MSFT: Microsoft Inks Multi-Billion Nebius Deal to Secure 100,000 Nvidia AI Chips",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "Reader Response to \"AI Overinvestment\"",
+    "Banks Can Now Streamline Operations With Nasdaq Calypso On AWS",
+    "GOOGL Stock Vs. AMZN, MSFT & META"
+  ],
+  "filings_count": 5,
+  "_id": "68e30a5db994c5f3a5cd90f1"
+}
+{
+  "timestamp": "2025-10-05 20:21:54.024528",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 55.0,
+  "accuracy": 36.84,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, significantly below the last close, and the 200-day moving average at $186.13, even further below. This suggests that the stock has been trading at a higher price range in the recent past. \n\nThe Relative Strength Index (RSI) is at 36.58, which is closer to the oversold territory (below 30), indicating that the stock may be undervalued. However, the MACD, a trend-following momentum indicator, is negative (-2.24), suggesting a bearish trend. \n\nThe stock's volatility is at 0.0198, indicating a moderate level of price fluctuation, and the risk score is 0.36, suggesting a medium level of risk. \n\nThe news headlines suggest a positive sentiment towards the stock, with Alphabet's evolution into a dividend-paying powerhouse and a price target boost from KeyBanc. However, the signal suggests a sell recommendation with a confidence level of 55.0% and an accuracy of 36.84%.\n\nBased on these indicators, if you are a risk-averse investor, you may want to consider selling the stock or holding off on buying more until the technical indicators show a more bullish trend. However, if you are a risk-tolerant investor who believes in the company's long-term growth potential, you may view the current price as a buying opportunity.\n\nPlease note that this analysis is based on historical data and current market conditions. Past performance is not indicative of future results. Always consider your personal investment goals and risk tolerance before making investment decisions. This information should not be considered as financial advice. Always consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801388948186,
+    "volatility": 0.019887513150851677,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e30ba2cd6a6ae97c2a7076"
+}
+{
+  "timestamp": "2025-10-05 20:22:15.214170",
+  "symbol": "AMZN",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 71.0,
+  "accuracy": 46.32,
+  "risk": "0.21",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.21.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, it appears that Amazon (AMZN) is currently in a downtrend. The stock's last close was at $219.51, which is below its 50-day moving average of $226.60 and slightly above its 200-day moving average of $214.58. This suggests that the stock has been underperforming in the short term.\n\nThe Relative Strength Index (RSI) is at 31.00, which is near the oversold territory. This could indicate that the stock is undervalued and may be due for a price correction. However, the Moving Average Convergence Divergence (MACD) is negative, suggesting that the bearish momentum is strong.\n\nThe stock's volatility is at 0.01588, indicating a relatively low level of price fluctuation. The risk score is 0.21, which is relatively low, suggesting that the stock is less risky compared to other stocks in the market.\n\nThe recent news headlines suggest that Amazon is facing competition from Microsoft and Alphabet. The SEC filings show that Amazon has recently filed its quarterly report (10-Q) and current report (8-K), which could provide more insights into the company's financial health.\n\nThe signal suggests a SELL recommendation with a confidence level of 71.0%. However, the accuracy of this signal is only 46.32%, which is relatively low. Therefore, it's important to take this recommendation with caution.\n\nBased on these factors, my recommendation would be to hold off on buying AMZN shares for now. It may be worth waiting for a stronger buy signal or for the stock to show signs of a price recovery.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It does not constitute investment advice, and you should not rely on it as such. Investing in the stock market involves risk, and you should always do your own research and consider your financial situation and risk tolerance before making investment decisions.",
+  "market_data": {
+    "symbol": "AMZN",
+    "last_close": 219.50999450683594,
+    "volume": 43572100,
+    "open": 223.44000244140625,
+    "low": 219.33999633789062,
+    "high": 224.1999969482422
+  },
+  "feature_data": {
+    "symbol": "AMZN",
+    "moving_average_50": 226.6011996459961,
+    "moving_average_200": 214.5837001800537,
+    "rsi": 31.00702594332857,
+    "macd": -0.8699270400401531,
+    "volatility": 0.015880690894000057,
+    "risk_score": 0.21403823115601578
+  },
+  "news_headlines": [
+    "MSFT: Microsoft Inks Multi-Billion Nebius Deal to Secure 100,000 Nvidia AI Chips",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "Reader Response to \"AI Overinvestment\"",
+    "Banks Can Now Streamline Operations With Nasdaq Calypso On AWS",
+    "GOOGL Stock Vs. AMZN, MSFT & META"
+  ],
+  "filings_count": 5,
+  "_id": "68e30bb7cd6a6ae97c2a707e"
+}
+{
+  "timestamp": "2025-10-05 20:33:05.964984",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 50.0,
+  "accuracy": 33.68,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is below the typical overbought threshold of 70, indicating that the stock is not currently overbought. \n\nThe MACD, a trend-following momentum indicator, is negative (-2.24), suggesting a bearish signal. The stock's volatility is 0.0198, which is relatively low, indicating that the stock's price has been stable. The risk score is 0.36, which is moderate.\n\nThe news headlines suggest a positive sentiment towards the stock, with Alphabet's evolution into a dividend-paying powerhouse and KeyBanc's price target increase. However, the signal suggests a SELL with a confidence of 50.0% and an accuracy of 33.68%.\n\nBased on these indicators, it might be advisable to hold off on buying more shares or consider selling existing shares. However, given the positive news sentiment and the company's strong fundamentals, it might also be worth keeping an eye on the stock for any potential buying opportunities if the technical indicators improve.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. It's important to consider your financial situation, investment objectives, and risk tolerance before making any investment decisions. Always consult with a licensed financial advisor or conduct your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.1309564971924,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139134385,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e30e41b919e8b08ba5f047"
+}
+{
+  "timestamp": "2025-10-05 20:33:47.829504",
+  "symbol": "SHOP",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 62.0,
+  "accuracy": 46.32,
+  "risk": "0.24",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.24.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, the stock of Shopify (SHOP) appears to be in a strong upward trend. The 50-day moving average of $142.44 is above the 200-day moving average of $115.45, indicating a positive trend. The Relative Strength Index (RSI) is 63.48, which is slightly above the neutral 50, suggesting that the stock is currently more on the 'bought' side. However, it's not in the overbought territory (above 70), which could indicate a potential pullback.\n\nThe MACD (Moving Average Convergence Divergence) is positive, suggesting that the short-term momentum is stronger than the long-term, which is a bullish signal. The stock's volatility is 0.0248, which is relatively low, indicating that the stock's price has been stable. The risk score is 0.24, which is also low, suggesting that the stock is less risky.\n\nHowever, the signal suggests a 'SELL' with a confidence level of 62.0%. This could be due to various factors, including market news or other technical indicators not mentioned here. The accuracy of this signal is 46.32%, which is less than 50%, indicating that the signal may not be very reliable.\n\nThe recent news headlines do not seem to have a direct impact on Shopify's business. The SEC filings show regular reports, but without specific details, it's hard to determine their impact on the stock.\n\nIn conclusion, while the technical indicators suggest a strong upward trend for Shopify, the sell signal with a confidence level of 62.0% should not be ignored. Therefore, it might be a good idea to consider selling a portion of your holdings in Shopify, while keeping a close eye on the stock's performance and any upcoming news or financial reports that could impact the stock's price.\n\nDisclaimer: This analysis is based on the data provided and does not take into account your personal financial situation or investment objectives. Investing in the stock market involves risk, and you should only invest money that you can afford to lose. Always consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "SHOP",
+    "last_close": 161.13999938964844,
+    "volume": 15732600,
+    "open": 152.8800048828125,
+    "low": 152.5,
+    "high": 162.60000610351562
+  },
+  "feature_data": {
+    "symbol": "SHOP",
+    "moving_average_50": 142.43959991455077,
+    "moving_average_200": 115.44879985809327,
+    "rsi": 63.484639643305044,
+    "macd": 0.4082298706642291,
+    "volatility": 0.024879664353961106,
+    "risk_score": 0.23986030189811175
+  },
+  "news_headlines": [
+    "TikTok is tagging videos from Gaza with TikTok Shop products",
+    "Google\u2019s AI Mode image search is getting more conversational",
+    "TV presenter Jay Blades denies rape charges",
+    "How to Get the Map in Silksong and Unlock Shakra's Full Shop",
+    "This Incredible Cozy Shop Simulator Rumbles With Sinister Undertones"
+  ],
+  "filings_count": 5,
+  "_id": "68e30e6bb919e8b08ba5f04f"
+}
+{
+  "timestamp": "2025-10-05 20:38:13.268494",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 65.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is below the typical overbought threshold of 70, indicating that the stock is not currently overbought. \n\nThe MACD, a momentum oscillator, is at -2.24, suggesting a bearish signal. The stock's volatility is at 0.0198, indicating a relatively low level of price fluctuation. The risk score is 0.36, which is a moderate risk level.\n\nThe news headlines suggest a positive sentiment towards the stock, with Alphabet's evolution into a dividend-paying powerhouse and KeyBanc's price target increase. However, the SEC filings show regular quarterly reports and securities offered to employees, which are standard practices and do not provide any significant insights.\n\nThe provided signal suggests a SELL recommendation with a confidence level of 65.0% and an accuracy of 37.89%. However, given the mixed signals from the technical indicators and the positive news sentiment, it may be prudent to hold the stock for now and monitor the market conditions closely.\n\nDisclaimer: This analysis is based on historical data and does not guarantee future performance. Investing in the stock market involves risk, and you should always consult with a financial advisor before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.1309564971924,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013913422,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e30f75b919e8b08ba5f058"
+}
+{
+  "timestamp": "2025-10-05 20:42:40.460037",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 56.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, significantly below the last close, and the 200-day moving average at $186.13, even further below. This suggests that the stock has been trading at a higher price range in the recent period compared to its average price over the last 50 and 200 days. \n\nThe Relative Strength Index (RSI) is at 36.58, which is closer to the oversold threshold of 30, indicating that the stock may be undervalued. However, the MACD (Moving Average Convergence Divergence) is negative, suggesting a bearish trend. \n\nThe stock's volatility is at 0.0198, indicating a moderate level of price fluctuation, and the risk score is 0.36, suggesting a moderate level of risk. \n\nThe news headlines suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and KeyBanc's price target increase. However, the signal suggests a sell recommendation with a confidence level of 56.0% and an accuracy of 37.89%. \n\nBased on these indicators, it may be advisable to hold off on buying more shares until there are stronger bullish signals. If you currently hold GOOGL shares, you may want to consider selling or reducing your position, given the sell signal and the bearish technical indicators. \n\nHowever, as always, it's important to consider your personal investment goals, risk tolerance, and time horizon before making any investment decisions. \n\nDisclaimer: This analysis is provided for informational purposes only and should not be considered as investment advice. Always consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095611572265,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013915295,
+    "volatility": 0.019887513150851677,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e31080bfaff299662a31fd"
+}
+{
+  "timestamp": "2025-10-05 20:43:00.070115",
+  "symbol": "SHOP",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 58.0,
+  "accuracy": 48.42,
+  "risk": "0.24",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.24.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, the stock of Shopify (SHOP) appears to be in a strong upward trend. The 50-day moving average of $142.44 is above the 200-day moving average of $115.45, indicating a positive trend. The Relative Strength Index (RSI) is 63.48, which is slightly above the neutral 50, suggesting that the stock is currently neither overbought nor oversold. The MACD, a trend-following momentum indicator, is positive, suggesting bullish momentum.\n\nHowever, the stock's volatility is relatively high at 0.0248, indicating that the stock price can change dramatically in a short time, making it possible for losses as well as gains. The risk score is 0.24, which is considered moderate risk.\n\nThe recent news headlines do not seem to have a direct impact on Shopify's business. However, the news about Google's AI Mode update could potentially affect online shopping behavior, which could indirectly impact Shopify.\n\nThe recent SEC filings show regular reporting, with no significant events or changes reported.\n\nDespite the positive technical indicators, the provided signal suggests a SELL with a confidence level of 58.0%. However, the accuracy of this signal is relatively low at 48.42%, which means the signal has been wrong more often than it has been right in the past.\n\nGiven these factors, my recommendation would be to hold the stock if you already own it, considering the positive trend and moderate risk. However, given the SELL signal and its low accuracy, it may not be the best time to buy more shares or to enter a new position.\n\nPlease note that this analysis is based on historical data and current market conditions. Past performance is not indicative of future results. Always consider your personal investment goals, risk tolerance, and financial situation before making investment decisions. Investing in the stock market involves risk, including the potential loss of principal.",
+  "market_data": {
+    "symbol": "SHOP",
+    "last_close": 161.13999938964844,
+    "volume": 15732600,
+    "open": 152.8800048828125,
+    "low": 152.5,
+    "high": 162.60000610351562
+  },
+  "feature_data": {
+    "symbol": "SHOP",
+    "moving_average_50": 142.43959991455077,
+    "moving_average_200": 115.44879985809327,
+    "rsi": 63.484639643305044,
+    "macd": 0.4082298706642291,
+    "volatility": 0.024879664353961106,
+    "risk_score": 0.23986030189811175
+  },
+  "news_headlines": [
+    "TikTok is tagging videos from Gaza with TikTok Shop products",
+    "Google\u2019s AI Mode image search is getting more conversational",
+    "TV presenter Jay Blades denies rape charges",
+    "How to Get the Map in Silksong and Unlock Shakra's Full Shop",
+    "This Incredible Cozy Shop Simulator Rumbles With Sinister Undertones"
+  ],
+  "filings_count": 5,
+  "_id": "68e31094bfaff299662a3205"
+}
+{
+  "timestamp": "2025-10-05 20:50:56.438432",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 45.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is below the typical overbought threshold of 70, indicating that the stock is not currently overbought. \n\nThe MACD, a momentum oscillator, is at -2.24, suggesting a bearish signal. The stock's volatility is at 0.0198, indicating a relatively low level of price fluctuation. The risk score is 0.36, which is a moderate risk level.\n\nThe recent news headlines and summaries suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and the Google Cloud story taking an unexpected turn. However, the signal suggests a SELL with a confidence of 45.0% and an accuracy of 37.89%.\n\nBased on the SEC filings, the company has been regularly filing its quarterly reports (10-Q), which is a positive sign. The company has also filed forms related to securities to be offered to employees in employee benefit plans (S-8 and S-8 POS), indicating potential employee incentives.\n\nIn conclusion, while the news and filings suggest a positive outlook for the company, the technical indicators suggest a bearish trend. Therefore, it might be advisable to hold off on buying the stock at this time. However, if you are a current shareholder, you may want to consider holding onto your shares given the company's positive news and regular SEC filings.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It is not intended to be investment advice. Each investor should carefully consider their own investment goals, risk tolerance, and liquidity needs before making an investment decision.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.1309564971924,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180139134385,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e31270b3875350c645a739"
+}
+{
+  "timestamp": "2025-10-05 20:51:24.222949",
+  "symbol": "AMZN",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 81.0,
+  "accuracy": 45.26,
+  "risk": "0.21",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.21.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Amazon (AMZN) is currently showing a bearish trend. The stock's last close was at $219.51, which is below its 50-day moving average of $226.60 and slightly above its 200-day moving average of $214.58. This indicates a short-term downward trend. \n\nThe Relative Strength Index (RSI) is at 31.00, which is near the oversold territory, suggesting that the stock may be undervalued. However, the Moving Average Convergence Divergence (MACD) is negative, indicating a bearish signal. \n\nThe stock's volatility is at 0.0158, which is relatively low, suggesting that the stock price is not fluctuating dramatically. However, the risk score is at 0.21, which is relatively low, indicating that the stock has a lower risk compared to other stocks.\n\nThe recent news headlines suggest that Amazon's competitors, such as Microsoft, are making significant moves in the AI space. This could potentially impact Amazon's market position and growth prospects. \n\nThe recent SEC filings show that Amazon has been regularly filing its quarterly reports and current reports, which is a positive sign of the company's compliance with regulatory requirements.\n\nHowever, the sell signal has a confidence level of 81.0%, but an accuracy of only 45.26%. This suggests that while the signal is strong, its past accuracy has been less than reliable.\n\nBased on these factors, my recommendation would be to hold off on buying AMZN shares for now and monitor the stock closely for any changes in the technical indicators and market news. \n\nPlease note that this analysis is based on historical data and current market conditions. Past performance is not indicative of future results. Always consider your personal investment goals and risk tolerance before making investment decisions. This analysis does not constitute investment advice or a recommendation to buy, sell or hold any security.",
+  "market_data": {
+    "symbol": "AMZN",
+    "last_close": 219.50999450683594,
+    "volume": 43572100,
+    "open": 223.44000244140625,
+    "low": 219.33999633789062,
+    "high": 224.1999969482422
+  },
+  "feature_data": {
+    "symbol": "AMZN",
+    "moving_average_50": 226.6011996459961,
+    "moving_average_200": 214.5837001800537,
+    "rsi": 31.00702594332857,
+    "macd": -0.8699270400401531,
+    "volatility": 0.015880690894000057,
+    "risk_score": 0.21403823115601578
+  },
+  "news_headlines": [
+    "MSFT: Microsoft Inks Multi-Billion Nebius Deal to Secure 100,000 Nvidia AI Chips",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "Reader Response to \"AI Overinvestment\"",
+    "Banks Can Now Streamline Operations With Nasdaq Calypso On AWS",
+    "GOOGL Stock Vs. AMZN, MSFT & META"
+  ],
+  "filings_count": 5,
+  "_id": "68e3128cb3875350c645a741"
+}
+{
+  "timestamp": "2025-10-05 20:56:15.519628",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 52.0,
+  "accuracy": 34.74,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75 and the 200-day moving average at $186.13, both below the last closing price. This suggests that the stock has been trading at a higher price recently compared to its average price over the past 50 and 200 days. \n\nThe Relative Strength Index (RSI) is at 36.58, which is closer to the oversold threshold of 30, indicating that the stock may be undervalued. However, the MACD, a trend-following momentum indicator, is negative, suggesting a bearish trend. \n\nThe stock's volatility is at 0.0198, indicating a moderate level of price fluctuation, and the risk score is 0.36, suggesting a moderate level of risk. \n\nThe news headlines suggest a positive outlook for Alphabet, with mentions of a dividend increase, a positive comparison with peers, and a price target boost from KeyBanc. However, the signal provided is a 'SELL' with a confidence level of 52.0% and an accuracy of 34.74%.\n\nBased on these indicators, it may be advisable to hold off on buying more shares of GOOGL until there are stronger bullish signals. If you currently hold shares, consider your risk tolerance and investment goals before deciding whether to sell.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consult with a financial advisor before making investment decisions. Investing in the stock market involves risk, including the risk of loss.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095611572265,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013915303,
+    "volatility": 0.019887513150851674,
+    "risk_score": 0.3591001052068134
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e313af4c1d98ecbad546ac"
+}
+{
+  "timestamp": "2025-10-05 20:56:43.053385",
+  "symbol": "SHOP",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 55.0,
+  "accuracy": 46.32,
+  "risk": "0.24",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.24.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, the stock of Shopify (SHOP) appears to be in a strong uptrend, as evidenced by its last close price of $161.14, which is significantly above its 50-day moving average of $142.44 and its 200-day moving average of $115.45. This suggests that the stock has been performing well in the recent past. \n\nThe Relative Strength Index (RSI) is 63.48, which is slightly above the neutral 50 mark, indicating that the stock is currently more on the 'bought' side. However, it's not in the overbought territory (RSI above 70), which could suggest a potential price reversal. \n\nThe Moving Average Convergence Divergence (MACD) is positive at 0.408, indicating bullish momentum. However, the stock's volatility is relatively high at 0.0248, which means the stock's price can change dramatically in a short time, making it possible for losses as well as gains. \n\nThe risk score is 0.24, which is relatively low, suggesting that the stock is less risky compared to other stocks in the market. \n\nHowever, the provided signal suggests a 'SELL' with a confidence level of 55.0% and an accuracy of 46.32%. This could mean that the system predicts a potential downturn in the stock's performance. \n\nBased on these indicators, if you are a risk-averse investor, you might want to consider selling your SHOP shares or at least closely monitor the stock's performance. If you are a risk-tolerant investor, you might want to hold onto the stock given its strong uptrend and relatively low risk score. \n\nPlease note that this analysis is based on historical data and does not guarantee future performance. It's important to consider your investment goals, risk tolerance, and market conditions before making any investment decisions. Always consult with a financial advisor or conduct further research before making investment decisions.",
+  "market_data": {
+    "symbol": "SHOP",
+    "last_close": 161.13999938964844,
+    "volume": 15732600,
+    "open": 152.8800048828125,
+    "low": 152.5,
+    "high": 162.60000610351562
+  },
+  "feature_data": {
+    "symbol": "SHOP",
+    "moving_average_50": 142.43959991455077,
+    "moving_average_200": 115.44879985809327,
+    "rsi": 63.484639643305044,
+    "macd": 0.4082298706642291,
+    "volatility": 0.024879664353961106,
+    "risk_score": 0.23986030189811175
+  },
+  "news_headlines": [
+    "TikTok is tagging videos from Gaza with TikTok Shop products",
+    "Google\u2019s AI Mode image search is getting more conversational",
+    "TV presenter Jay Blades denies rape charges",
+    "How to Get the Map in Silksong and Unlock Shakra's Full Shop",
+    "This Incredible Cozy Shop Simulator Rumbles With Sinister Undertones"
+  ],
+  "filings_count": 5,
+  "_id": "68e313cb4c1d98ecbad546b4"
+}
+{
+  "timestamp": "2025-10-05 21:06:50.392293",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 49.0,
+  "accuracy": 35.79,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is below the typical overbought threshold of 70, indicating that the stock is not currently overbought. \n\nThe MACD, a momentum oscillator, is at -2.24, suggesting a bearish signal. The stock's volatility is at 0.0198, indicating a relatively low level of price fluctuation. The risk score is at 0.36, which is a moderate level of risk.\n\nThe recent news headlines and summaries suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and the Google Cloud story taking an unexpected turn. However, the signal suggests a SELL with a confidence level of 49.0 and an accuracy of 35.79.\n\nBased on the SEC filings, the company has been consistent in filing its quarterly reports (10-Q), which is a positive sign. The filings also indicate that the company has offered securities to its employees, which could be a sign of the company's confidence in its future performance.\n\nIn conclusion, while the technical indicators suggest a bearish trend, the news and SEC filings present a positive outlook for the company. Given the SELL signal with a moderate confidence level and accuracy, it might be advisable to hold off on buying the stock at this time. However, it's important to monitor the stock closely for any changes in the technical indicators and news.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice. Investing in stocks involves risk, including the loss of principal. Please consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013889441,
+    "volatility": 0.019887513150851667,
+    "risk_score": 0.35910010520681335
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3162a1b80de5fb6355d83"
+}
+{
+  "timestamp": "2025-10-05 21:07:09.966585",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 53.0,
+  "accuracy": 38.95,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.57, which is near the oversold territory, indicating that the stock may be undervalued. \n\nHowever, the MACD, a momentum indicator, is negative, suggesting a bearish trend. The stock's volatility is at 0.0198, indicating a moderate level of price fluctuation. The risk score is 0.36, suggesting a moderate level of risk.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in the price target by KeyBanc are positive indicators. However, the surprising turn in the Google Cloud story could be a cause for concern.\n\nThe recent SEC filings show regular quarterly reports and securities offered to employees, which is a common practice for many companies.\n\nThe signal suggests a sell recommendation with a confidence level of 53.0% and an accuracy of 38.95%. However, given the mixed indicators, it may be prudent to hold the stock and monitor the situation closely.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It is not intended as investment advice and should not be relied upon as such. You should consult with a financial advisor or other professional to determine what may be best for your individual needs and risk tolerance. Please remember that investing in the stock market involves risk, including the risk of loss.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180138894936,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3163d1b80de5fb6355d8b"
+}
+{
+  "timestamp": "2025-10-05 21:09:23.912280",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 56.0,
+  "accuracy": 35.79,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.57, which is below the typical overbought threshold of 70, indicating that the stock is not currently overbought. \n\nThe MACD, a momentum oscillator, is at -2.24, suggesting a bearish signal. The stock's volatility is at 0.0198, indicating a relatively low level of price fluctuation. The risk score is at 0.36, which is a moderate risk level.\n\nThe news headlines suggest a positive sentiment around the stock, with Alphabet's evolution into a dividend-paying powerhouse and KeyBanc's price target increase. However, the SEC filings show regular quarterly reports and securities offered to employees, which are standard practices and do not provide any significant insights.\n\nThe signal suggests a SELL with a confidence level of 56.0% and an accuracy of 35.79%. This indicates a bearish outlook for the stock. \n\nBased on these factors, my recommendation would be to hold off on buying more shares of GOOGL at this time. If you currently own shares, you may want to consider selling or reducing your position, given the bearish technical indicators and the sell signal. However, keep an eye on the stock, as the positive news sentiment could potentially lead to a reversal in the future.\n\nDisclaimer: This analysis is based on historical data and does not guarantee future performance. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180138894554,
+    "volatility": 0.01988751315085167,
+    "risk_score": 0.35910010520681335
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e316c3a4c3446b88fc443d"
+}
+{
+  "timestamp": "2025-10-05 21:09:42.635318",
+  "symbol": "BMO",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 60.0,
+  "accuracy": 31.58,
+  "risk": "0.15",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.15.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, BMO's stock shows a mixed picture. The stock's last close was at $129.03, with a trading volume of 803,300. The 50-day moving average of $120.68 is above the 200-day moving average of $104.60, which is generally a bullish signal. However, the Relative Strength Index (RSI) is at 54.83, which is close to the neutral zone, indicating neither overbought nor oversold conditions.\n\nThe MACD, a trend-following momentum indicator, is negative, suggesting a bearish trend. The stock's volatility is at 0.0119, indicating a relatively stable price movement. The risk score is 0.15, which is relatively low, suggesting that the stock is less risky.\n\nIn terms of news, BMO has been actively focusing on its credit card and loyalty strategy, targeting current customers. This could potentially increase customer retention and boost revenue. However, investors are wary of the Treasury's 30-year bond auction, which could impact the overall market sentiment.\n\nThe recent SEC filings show that BMO has been regularly filing Form 6-K, which is a report of foreign issuer. This is a routine filing and does not indicate any significant changes in the company's operations.\n\nThe signal suggests a SELL with a confidence level of 60.0%. However, the accuracy of this signal is only 31.58%, which is relatively low. Therefore, it's important to consider this recommendation with caution.\n\nGiven the above analysis, my recommendation would be to hold the stock if you already own it. If you are considering buying, it may be wise to wait for a more bullish signal or for the stock to dip closer to its 50-day moving average.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consider your personal investment goals and risk tolerance before making investment decisions.",
+  "market_data": {
+    "symbol": "BMO",
+    "last_close": 129.02999877929688,
+    "volume": 803300,
+    "open": 128.9499969482422,
+    "low": 126.16000366210938,
+    "high": 129.38999938964844
+  },
+  "feature_data": {
+    "symbol": "BMO",
+    "moving_average_50": 120.67576904296875,
+    "moving_average_200": 104.60129600524903,
+    "rsi": 54.828639149027694,
+    "macd": -0.5172167894068505,
+    "volatility": 0.011951824115242956,
+    "risk_score": 0.1473362718626287
+  },
+  "news_headlines": [
+    "Investors wary of Treasury's 30-year bond auction after recent disappointments",
+    "BMO Credit Card And Loyalty Strategy Focused On Current Customers",
+    "BMO Lifts AbbVie Inc. (ABBV) Price Target to $240 After Rinvoq Litigation Win",
+    "BMO Capital Reduces PT on UDR (UDR) Stock",
+    "BMO Capital Raises Royal Bank of Canada (RY) PT to C$203"
+  ],
+  "filings_count": 5,
+  "_id": "68e316d6a4c3446b88fc4445"
+}
+{
+  "timestamp": "2025-10-05 21:11:10.457119",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 52.0,
+  "accuracy": 34.74,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is near the oversold territory, indicating that the stock may be undervalued. \n\nHowever, the MACD, a momentum indicator, is negative, suggesting a bearish momentum. The stock's volatility is at 0.0198, indicating a moderate level of price fluctuation. The risk score is 0.36, suggesting a moderate level of risk.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in the price target by KeyBanc are positive indicators. However, the signal suggests a sell recommendation with a confidence level of 52.0% and an accuracy of 34.74%.\n\nBased on the above analysis, my recommendation would be to hold the stock if you already own it, given the positive news and the potential for the stock to be undervalued as indicated by the RSI. However, the sell signal and the bearish trend indicated by the moving averages suggest caution for potential buyers. \n\nPlease note that this analysis is based on the current market data and indicators, and the market conditions can change rapidly. It is important to consider your financial situation, risk tolerance, and investment goals before making any investment decisions. This analysis does not constitute investment advice and should not be the sole basis for any investment decision.\n\nDisclaimer: Investing in the stock market involves risk, and past performance is not indicative of future results. Always consult with a licensed financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095672607423,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013888847,
+    "volatility": 0.019887513150851677,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3172ecdd90d2ec54eb918"
+}
+{
+  "timestamp": "2025-10-05 21:11:28.306970",
+  "symbol": "BMO",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 50.0,
+  "accuracy": 22.11,
+  "risk": "0.15",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.15.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, BMO's recent performance presents a mixed picture. The stock closed at $129.03 with a volume of 803,300. The 50-day moving average of $120.67 is above the 200-day moving average of $104.60, indicating a positive trend in the short term. However, the MACD, a momentum oscillator, is negative, suggesting a bearish trend.\n\nThe Relative Strength Index (RSI) is at 54.82, which is a neutral position, neither overbought nor oversold. The stock's volatility is 0.0119, indicating a relatively stable price movement. The risk score is 0.15, which is relatively low, suggesting that the stock is less risky.\n\nNews headlines indicate that BMO is focusing on its current customers with its credit card and loyalty strategy. They have also made some significant price target adjustments for other companies, which could impact their own financial performance.\n\nThe recent SEC filings do not provide any significant insights as they are standard 6-K forms, which are periodic reports by foreign issuers.\n\nHowever, the provided signal suggests a SELL recommendation with a confidence level of 50.0%. The accuracy of this signal is 22.11%, which is relatively low, indicating that the signal may not be very reliable.\n\nBased on these factors, my recommendation would be to hold the stock if you already own it, but it may not be the best time to buy more shares or to enter a new position. As always, it's important to consider your personal investment goals, risk tolerance, and time horizon before making any investment decisions.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice. Investing in the stock market involves risk, and you should always do your own research before making investment decisions.",
+  "market_data": {
+    "symbol": "BMO",
+    "last_close": 129.02999877929688,
+    "volume": 803300,
+    "open": 128.9499969482422,
+    "low": 126.16000366210938,
+    "high": 129.38999938964844
+  },
+  "feature_data": {
+    "symbol": "BMO",
+    "moving_average_50": 120.67576904296875,
+    "moving_average_200": 104.60129592895508,
+    "rsi": 54.828639149027694,
+    "macd": -0.5172167894489417,
+    "volatility": 0.011951824115242956,
+    "risk_score": 0.14733627186683781
+  },
+  "news_headlines": [
+    "Investors wary of Treasury's 30-year bond auction after recent disappointments",
+    "BMO Credit Card And Loyalty Strategy Focused On Current Customers",
+    "BMO Lifts AbbVie Inc. (ABBV) Price Target to $240 After Rinvoq Litigation Win",
+    "BMO Capital Reduces PT on UDR (UDR) Stock",
+    "BMO Capital Raises Royal Bank of Canada (RY) PT to C$203"
+  ],
+  "filings_count": 5,
+  "_id": "68e31740cdd90d2ec54eb920"
+}
+{
+  "timestamp": "2025-10-05 21:13:23.644197",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 57.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is below the typical overbought threshold of 70, indicating that the stock is not currently overbought. \n\nThe MACD, a momentum oscillator, is at -2.24, suggesting a bearish signal. The stock's volatility is at 0.0198, indicating a relatively low level of price fluctuation. The risk score is 0.36, which is a moderate risk level.\n\nThe recent news headlines and summaries suggest a positive outlook for the company, with Alphabet's evolution into a dividend-paying powerhouse and the Google Cloud story taking an unexpected turn. However, the signal suggests a SELL with a confidence level of 57.0% and an accuracy of 37.89%.\n\nBased on the above analysis, my recommendation would be to hold off on buying more shares of GOOGL at this time due to the bearish technical indicators. However, given the positive news and the company's strong fundamentals, it may be worth keeping an eye on the stock for potential buying opportunities if the technical indicators improve.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It is not intended as investment advice and should not be relied upon as such. You should consult with a financial advisor or other professional to determine what may be best for your individual needs and risk tolerance. Please remember that investing in the stock market involves risk, including the risk of loss.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.1309564971924,
+    "rsi": 36.578051807925014,
+    "macd": -2.24218013913422,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e317b3bce3b3b5b5bf9a95"
+}
+{
+  "timestamp": "2025-10-05 21:13:58.814955",
+  "symbol": "BMO",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 63.0,
+  "accuracy": 28.42,
+  "risk": "0.15",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.15.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, BMO's stock shows a mixed picture. The stock's last close was at $129.03, with a trading volume of 803,300. The 50-day moving average of $120.68 is above the 200-day moving average of $104.60, which is generally a bullish signal. However, the Relative Strength Index (RSI) is at 54.83, which is in the neutral territory, indicating neither overbought nor oversold conditions.\n\nThe MACD, a trend-following momentum indicator, is negative, suggesting a bearish trend. The stock's volatility is at 0.01, indicating a relatively stable price movement. The risk score is 0.15, which is relatively low, suggesting that the stock is less risky.\n\nThe recent news headlines show that BMO is focusing on its current customers with its credit card and loyalty strategy. It has also made some significant price target adjustments for other stocks, which could impact its own stock price.\n\nThe recent SEC filings show that BMO has been regularly filing Form 6-K, which is a report of foreign issuer. This is a routine filing and does not indicate any significant changes in the company's operations.\n\nHowever, the provided signal suggests a SELL recommendation with a confidence level of 63.0%. The accuracy of this signal is 28.42%, which is relatively low, indicating that the signal may not be very reliable.\n\nIn light of these factors, my recommendation would be to hold the stock if you already own it, but it may not be the best time to buy new shares given the current signals and market conditions. \n\nPlease note that this analysis is based on the current market data and indicators, which can change rapidly. Always consider your personal financial situation, risk tolerance, and investment goals before making any investment decisions. This analysis does not constitute investment advice and should not be the sole basis for any investment decision.",
+  "market_data": {
+    "symbol": "BMO",
+    "last_close": 129.02999877929688,
+    "volume": 803300,
+    "open": 128.9499969482422,
+    "low": 126.16000366210938,
+    "high": 129.38999938964844
+  },
+  "feature_data": {
+    "symbol": "BMO",
+    "moving_average_50": 120.67576904296875,
+    "moving_average_200": 104.60129596710205,
+    "rsi": 54.828639149027694,
+    "macd": -0.5172167894084541,
+    "volatility": 0.011951824115242952,
+    "risk_score": 0.14733627186278903
+  },
+  "news_headlines": [
+    "Investors wary of Treasury's 30-year bond auction after recent disappointments",
+    "BMO Credit Card And Loyalty Strategy Focused On Current Customers",
+    "BMO Lifts AbbVie Inc. (ABBV) Price Target to $240 After Rinvoq Litigation Win",
+    "BMO Capital Reduces PT on UDR (UDR) Stock",
+    "BMO Capital Raises Royal Bank of Canada (RY) PT to C$203"
+  ],
+  "filings_count": 5,
+  "_id": "68e317d6bce3b3b5b5bf9a9d"
+}
+{
+  "timestamp": "2025-10-05 21:15:27.349005",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 52.0,
+  "accuracy": 38.95,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, significantly below the last close, and the 200-day moving average at $186.13, even further below. This suggests that the stock has been trading above its average levels, which could indicate overvaluation.\n\nThe Relative Strength Index (RSI) is at 36.57, which is closer to the oversold threshold of 30. This could suggest that the stock is nearing a point where it could be undervalued, but it's not there yet. The MACD, a trend-following momentum indicator, is negative, suggesting a bearish trend.\n\nThe stock's volatility is at 0.0198, indicating a moderate level of price fluctuation. The risk score is 0.36, suggesting a moderate level of risk.\n\nNews headlines suggest a positive outlook for Alphabet, with mentions of a dividend increase, a positive comparison with peers, and a price target boost from KeyBanc. However, the signal provided is a SELL with a confidence level of 52.0% and an accuracy of 38.95%.\n\nBased on these indicators, it might be advisable to hold off on buying more shares of GOOGL until the technical indicators show a more bullish trend. If you currently hold shares, you may want to consider selling or holding depending on your risk tolerance and investment horizon.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consider your personal investment goals and risk tolerance before making investment decisions. It's recommended to consult with a financial advisor for personalized advice.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.242180138894554,
+    "volatility": 0.01988751315085167,
+    "risk_score": 0.35910010520681335
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e3182fa9b24f80b2f10e2a"
+}
+{
+  "timestamp": "2025-10-05 21:15:47.728851",
+  "symbol": "SHOP",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 53.0,
+  "accuracy": 47.37,
+  "risk": "0.24",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.24.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, the stock of Shopify (SHOP) appears to be in a strong uptrend. The 50-day moving average of $142.44 is above the 200-day moving average of $115.45, indicating a bullish trend. The Relative Strength Index (RSI) is 63.48, which is slightly above the neutral 50, suggesting that the stock is currently neither overbought nor oversold. The MACD, a trend-following momentum indicator, is positive, suggesting bullish momentum.\n\nHowever, the stock's volatility is 0.0248, which is relatively high, indicating that the stock price can change dramatically in a short time period, making it possible for losses as well as gains. The risk score is 0.24, which is considered moderate risk.\n\nThe latest news headlines do not seem to have a direct impact on Shopify's business. However, the news about Google's AI Mode update could potentially affect online shopping trends, which could indirectly impact Shopify.\n\nThe recent SEC filings show regular reporting, with no significant events or changes disclosed.\n\nDespite the positive technical indicators, the provided signal suggests a SELL with a confidence level of 53.0%. The accuracy of this signal is 47.37%, which is less than 50%, indicating that the signal's past predictions have been more often incorrect than correct.\n\nGiven these factors, my recommendation would be to hold the stock if you already own it, considering the strong uptrend and moderate risk. However, given the sell signal and its associated confidence and accuracy levels, it may not be the best time to buy more shares or to enter a new position.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consider your personal financial situation, risk tolerance, and investment goals before making investment decisions. It may be beneficial to consult with a personal financial advisor.",
+  "market_data": {
+    "symbol": "SHOP",
+    "last_close": 161.13999938964844,
+    "volume": 15732600,
+    "open": 152.8800048828125,
+    "low": 152.5,
+    "high": 162.60000610351562
+  },
+  "feature_data": {
+    "symbol": "SHOP",
+    "moving_average_50": 142.43959991455077,
+    "moving_average_200": 115.44879985809327,
+    "rsi": 63.484639643305044,
+    "macd": 0.4082298706642291,
+    "volatility": 0.024879664353961106,
+    "risk_score": 0.23986030189811175
+  },
+  "news_headlines": [
+    "TikTok is tagging videos from Gaza with TikTok Shop products",
+    "Google\u2019s AI Mode image search is getting more conversational",
+    "TV presenter Jay Blades denies rape charges",
+    "How to Get the Map in Silksong and Unlock Shakra's Full Shop",
+    "This Incredible Cozy Shop Simulator Rumbles With Sinister Undertones"
+  ],
+  "filings_count": 5,
+  "_id": "68e31843a9b24f80b2f10e32"
+}
+{
+  "timestamp": "2025-10-05 21:19:49.962196",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 61.0,
+  "accuracy": 35.79,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75 and the 200-day moving average at $186.13. This suggests that the stock is trading above its recent averages, which could indicate overvaluation. The Relative Strength Index (RSI) is 36.58, which is near the oversold territory, suggesting that the stock may be undervalued. \n\nThe MACD, a trend-following momentum indicator, is negative (-2.24), indicating a bearish trend. The stock's volatility is 0.0198, which is relatively low, suggesting that the stock's price has been stable. The risk score is 0.36, indicating a moderate level of risk.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in the price target by KeyBanc are positive indicators. However, the surprising turn in the Google Cloud story could be a cause for concern.\n\nThe recent SEC filings show regular quarterly reports and securities offered to employees, which is a common practice for many companies.\n\nThe signal suggests a sell recommendation with a confidence level of 61.0% and an accuracy of 35.79%. \n\nBased on these factors, my recommendation would be to hold the stock if you already own it, but it may not be the best time to buy new shares given the current bearish trend and the sell signal. However, the low RSI could suggest a potential buying opportunity if the stock becomes oversold.\n\nPlease note, this analysis is based on historical data and current market conditions. It does not guarantee future performance. Always consider your personal investment goals and risk tolerance before making investment decisions.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801391370746,
+    "volatility": 0.01988751315085168,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e31935c67492990fa25f4c"
+}
+{
+  "timestamp": "2025-10-05 21:20:27.023676",
+  "symbol": "BMO",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 63.0,
+  "accuracy": 27.37,
+  "risk": "0.15",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.15.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, BMO's stock shows a mixed picture. The stock's last close was at $129.03, with a trading volume of 803,300. The 50-day moving average of $120.68 is above the 200-day moving average of $104.60, which is generally a bullish signal. However, the Relative Strength Index (RSI) is at 54.83, which is in the neutral territory, indicating neither overbought nor oversold conditions.\n\nThe MACD, a trend-following momentum indicator, is negative, suggesting a bearish trend. The stock's volatility is at 0.01, indicating a relatively stable price movement. The risk score is 0.15, which is relatively low, suggesting that the stock is less risky.\n\nThe recent news headlines show that BMO is focusing on its current customers with its credit card and loyalty strategy. The company has also been involved in some significant financial moves, such as lifting the price target for AbbVie Inc. and Royal Bank of Canada.\n\nThe recent SEC filings show that BMO has been regularly filing Form 6-K, which is a report of foreign issuer. This is a routine filing and does not indicate any significant changes in the company's operations.\n\nHowever, the provided signal suggests a SELL recommendation with a confidence level of 63.0%. The accuracy of this signal is 27.37%, which is relatively low, indicating that the signal may not be very reliable.\n\nIn conclusion, while BMO's stock shows some positive signs, the negative MACD and the SELL signal suggest that it might be a good idea to sell the stock at this time. However, given the low accuracy of the signal, it would be prudent to monitor the stock closely and consider other factors before making a decision.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It should not be considered as investment advice. Investing in stocks involves risk, including the loss of principal. Please consult with a qualified financial advisor before making any investment decisions.",
+  "market_data": {
+    "symbol": "BMO",
+    "last_close": 129.02999877929688,
+    "volume": 803300,
+    "open": 128.9499969482422,
+    "low": 126.16000366210938,
+    "high": 129.38999938964844
+  },
+  "feature_data": {
+    "symbol": "BMO",
+    "moving_average_50": 120.67576904296875,
+    "moving_average_200": 104.60129600524903,
+    "rsi": 54.828639149027694,
+    "macd": -0.5172167894068291,
+    "volatility": 0.011951824115242959,
+    "risk_score": 0.1473362718626266
+  },
+  "news_headlines": [
+    "Investors wary of Treasury's 30-year bond auction after recent disappointments",
+    "BMO Credit Card And Loyalty Strategy Focused On Current Customers",
+    "BMO Lifts AbbVie Inc. (ABBV) Price Target to $240 After Rinvoq Litigation Win",
+    "BMO Capital Reduces PT on UDR (UDR) Stock",
+    "BMO Capital Raises Royal Bank of Canada (RY) PT to C$203"
+  ],
+  "filings_count": 5,
+  "_id": "68e3195bc67492990fa25f54"
+}
+{
+  "timestamp": "2025-10-05 21:23:17.428251",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 49.0,
+  "accuracy": 37.89,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, which is above the 200-day moving average at $186.13. This suggests that the stock has been in a downtrend in the recent past. The Relative Strength Index (RSI) is at 36.58, which is near the oversold territory, indicating that the stock may be undervalued. \n\nHowever, the MACD, a trend-following momentum indicator, is negative, suggesting a bearish signal. The stock's volatility is at 0.0198, indicating a moderate level of price fluctuation. The risk score is 0.36, suggesting a moderate level of risk.\n\nThe recent news headlines and summaries suggest a positive outlook for the company. Alphabet's evolution into a dividend-paying powerhouse and the increase in the price target by KeyBanc are positive indicators. However, the signal suggests a sell recommendation with a confidence level of 49.0% and an accuracy of 37.89%.\n\nBased on the above analysis, it would be prudent to hold off on buying more shares until there are stronger bullish signals. If you currently own shares, you may want to consider holding them until there are clearer signs of a price recovery.\n\nDisclaimer: This analysis is based on publicly available information and is intended for informational purposes only. It is not intended to be investment advice. Each investor should carefully consider their own investment goals, risk tolerance, and time horizon before making any investment. Past performance is not indicative of future results.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095680236816,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801388942715,
+    "volatility": 0.019887513150851674,
+    "risk_score": 0.3591001052068134
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e31a05da5b85192cdc43f7"
+}
+{
+  "timestamp": "2025-10-05 21:23:34.397645",
+  "symbol": "GOOGL",
+  "workflow_stage": "audit",
+  "signal": "SELL",
+  "confidence": 50.0,
+  "accuracy": 35.79,
+  "risk": "0.36",
+  "compliance_status": "PASS",
+  "compliance_reason": "Signal 'SELL' passed compliance checks with risk score 0.36.",
+  "decision_source": "Automated Financial Advisory",
+  "final_advice": "Given the technical indicators and key metrics, Alphabet Inc. (GOOGL) presents a mixed picture. The stock's last close was at $245.35 with a trading volume of 30,232,900. The stock opened at $244.49 and traded between a low of $241.66 and a high of $246.30. \n\nThe moving averages indicate a bearish trend, with the 50-day moving average at $220.75, significantly below the last close, and the 200-day moving average at $186.13, even further below. This suggests that the stock has been trading at higher levels recently compared to its historical average, which could indicate overvaluation.\n\nThe Relative Strength Index (RSI) is at 36.57, which is closer to the oversold threshold of 30. This could suggest that the stock is undervalued and may be due for a price correction. However, the Moving Average Convergence Divergence (MACD) is negative, indicating a bearish trend.\n\nThe news headlines suggest a positive sentiment around the stock, with Alphabet's evolution into a dividend-paying powerhouse and a price target boost from KeyBanc. However, the signal suggests a SELL with a confidence of 50.0% and an accuracy of 35.79%. The risk score is 0.36, indicating a moderate level of risk.\n\nBased on these indicators, it might be advisable to hold off on buying more shares until there are stronger bullish signals. If you currently hold GOOGL shares, you may want to consider selling a portion of your holdings or setting a stop-loss order to protect against potential price drops.\n\nHowever, every investor's situation is unique and these recommendations should be considered in light of your personal investment goals and risk tolerance. Please consult with your personal financial advisor before making any investment decisions.\n\nDisclaimer: This analysis is provided for informational purposes only and is not intended as investment advice. Investing in the stock market involves risk, including the risk of loss. Past performance is not indicative of future results.",
+  "market_data": {
+    "symbol": "GOOGL",
+    "last_close": 245.35000610351562,
+    "volume": 30232900,
+    "open": 244.49000549316406,
+    "low": 241.66000366210938,
+    "high": 246.3000030517578
+  },
+  "feature_data": {
+    "symbol": "GOOGL",
+    "moving_average_50": 220.74976776123046,
+    "moving_average_200": 186.13095626831054,
+    "rsi": 36.578051807925014,
+    "macd": -2.2421801391368223,
+    "volatility": 0.019887513150851684,
+    "risk_score": 0.35910010520681346
+  },
+  "news_headlines": [
+    "The GOOGL Stock Shareholder Jackpot",
+    "GOOGL Stock Vs. AMZN, MSFT & META",
+    "Google offers surprising reason for investors to cheer",
+    "Jim Cramer drops shock call on Magnificent 7 stocks",
+    "KeyBanc Boosts Alphabet (GOOGL) PT Post DOJ Ruling"
+  ],
+  "filings_count": 5,
+  "_id": "68e31a16da5b85192cdc43ff"
+}
