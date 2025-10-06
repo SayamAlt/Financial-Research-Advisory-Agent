@@ -10,3 +10,4 @@ python-dotenv
 pymongo
 scikit-learn
 langchain-openai
+pygraphviz
