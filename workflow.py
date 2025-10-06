@@ -24,7 +24,6 @@ if "OPENAI_API_KEY" in st.secrets:
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 else:
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-    os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
     
 if "NEWS_API_KEY" in st.secrets:
     NEWS_API_KEY = st.secrets["NEWS_API_KEY"]
